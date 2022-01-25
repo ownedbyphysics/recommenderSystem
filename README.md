@@ -12,6 +12,7 @@ lets say the n top similar products?
 The description class firstly computes the similarity matrix for all watches, saves it to a .csv file, and then via a recommend method sends a query to 
 get the answer in a dataframe result containing the SKUs of the top similar watches along with their corresponding score. See image1:
 
+![image1](https://user-images.githubusercontent.com/48797734/151055633-bbb86765-37f6-4a82-bdb4-1189c776af3f.png)
 
 
 
