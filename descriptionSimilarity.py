@@ -53,7 +53,6 @@ class description_similarity():
     def __init__(self, settings):
         self.settings = settings
        
-    
     def data_read(self, df_to_process=None):
         """Read the default dataset or any other users dataset.
            The dataset should contain an SKU column to be used as 
@@ -81,7 +80,6 @@ class description_similarity():
         df['description'] = df['description'].apply(self.cleaningText)
         self.df = df
        
-   
     def cleaningText(text, stem=False):
         """A method responsible for cleaning the text using a plethora 
            of methods.
@@ -161,7 +159,7 @@ class description_similarity():
         pairwise_similarity = tfidf_matrix * tfidf_matrix.T
         pairwise_similarity = pairwise_similarity.A
         
-        # another method is the linearl kernel to compute similarities
+        # another method is the linear kernel to compute similarities
         #pairwise_similarity= linear_kernel(tfidf_matrix)
         
         # last way is to use the cosine similarity external library
@@ -179,8 +177,6 @@ class description_similarity():
         else:
             self.similarity_df.to_csv(str(fileName) +'.csv')
         
-
-
     def load(self, fileName, from_path=False):
         if from_path:
             self.similarity_df = pd.read_csv(from_path + '/' + fileName + '.csv')
@@ -189,7 +185,6 @@ class description_similarity():
             self.similarity_df = pd.read_csv(fileName + '.csv')
             self.similarity_df = self.similarity_df.set_index(self.sku_list)
         return self.similarity_df.head()
-        
     
     def recommendations(self, testSKU, number_of_similar):
         final = self.similarity_df[[testSKU]]
