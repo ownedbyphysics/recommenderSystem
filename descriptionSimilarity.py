@@ -38,7 +38,7 @@ class description_similarity():
         }
     
     Returns:
-        A dataframe of chosen length with most similar SKUs
+        A dataframe of chosen length with the most similar SKUs
   
       Example:
      >>> p = description_similarity(settings)
