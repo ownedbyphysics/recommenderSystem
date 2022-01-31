@@ -1,5 +1,5 @@
 # recommenderSystem
-A case study regarding Recommender System. 
+A case study regarding content based Recommender Systems. 
 
 ## DESCRIPTION BASED:
 
