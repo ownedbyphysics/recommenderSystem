@@ -1,0 +1,1486 @@
+SKU,Brand,Category,Gender,Diameter,Atm,Case_Size,Case_Material,Case_Color,Dial_Color,Strap_Material,Strap_Color,Regular_Price
+watch_0,genskne,Watch,Male,37.0,3.0,Medium,Titanium,Black,Black,Metal Bracelet,Black,1712.0
+watch_1,genskne,Watch,Male,37.0,3.0,Medium,Titanium,Black,Blue,Metal Bracelet,Black,982.0
+watch_2,genskne,Watch,Female,24.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,2355.0
+watch_3,genskne,Watch,Male,37.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Black,2355.0
+watch_4,genskne,Watch,Male,37.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Black,2355.0
+watch_5,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Black,Black,Metal Bracelet,Black,845.0
+watch_6,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,314.0
+watch_7,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,849.0
+watch_8,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,645.0
+watch_9,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Gold,Silver,Metal Bracelet,Silver,995.0
+watch_10,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,785.0
+watch_11,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Silver,795.0
+watch_12,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,740.0
+watch_13,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,440.0
+watch_14,genskne,Watch,Female,22.0,3.0,Small,Stainless Steel,Rose Gold,Black,Metal Bracelet,Black,925.0
+watch_15,genskne,Watch,Female,22.0,3.0,Small,Stainless Steel,Silver,Silver,Leather,Black,845.0
+watch_16,genskne,Watch,Female,25.0,3.0,Small,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Rose Gold,489.0
+watch_17,genskne,Watch,Female,25.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,745.0
+watch_18,dasadsa,Watch,Female,40.0,10.0,Medium,Plastic,Black,Black,Silicone,Black,849.0
+watch_19,dasadsa,Watch,Male,40.0,10.0,Medium,Plastic,Black,Black,Silicone,Black,849.0
+watch_20,dasadsa,Watch,Male,40.0,5.0,Medium,Plastic,White,White,Silicone,White,400.0
+watch_21,dasadsa,Watch,Male,42.0,5.0,Medium,Plastic,Black,LCD,Silicone,Black,899.0
+watch_22,dasadsa,Watch,Male,42.0,5.0,Medium,Plastic,Blue,LCD,Silicone,Blue,695.0
+watch_23,dasadsa,Watch,Unisex,41.0,5.0,Medium,Plastic,Black,Multicolor,Silicone,Black,1295.0
+watch_24,dasadsa,Watch,Unisex,44.0,10.0,Large,Plastic,Black,Black,Silicone,Black,669.0
+watch_25,dasadsa,Watch,Unisex,44.0,10.0,Large,Plastic,White,White,Silicone,White,645.0
+watch_26,dasadsa,Watch,Female,41.0,5.0,Medium,Plastic,Black,White,Silicone,Black,569.0
+watch_27,dasadsa,Watch,Female,34.0,10.0,Small,Plastic,White,White,Silicone,Multicolor,400.0
+watch_28,dasadsa,Watch,Female,34.0,10.0,Small,Plastic,White,White,Silicone,Multicolor,745.0
+watch_29,dasadsa,Watch,Female,34.0,10.0,Small,Plastic,White,White,Silicone,Multicolor,499.0
+watch_30,dasadsa,Watch,Female,34.0,10.0,Small,Plastic,Black,Black,Silicone,Black,795.0
+watch_31,dasadsa,Watch,Male,42.0,10.0,Medium,Stainless Steel,Silver,Black,Leather,Black,615.0
+watch_32,dasadsa,Watch,Male,42.0,10.0,Medium,Stainless Steel,Silver,White,Leather,White,795.0
+watch_33,dasadsa,Watch,Male,42.0,10.0,Medium,Stainless Steel,Silver,Black,Leather,Black,350.0
+watch_34,dasadsa,Watch,Male,42.0,10.0,Medium,Stainless Steel,Silver,Blue,Fabric,Blue,665.0
+watch_35,dasadsa,Watch,Male,42.0,10.0,Medium,Plastic,White,LCD,Silicone,White,575.0
+watch_36,dasadsa,Watch,Male,48.0,10.0,X-Large,Plastic,Black,Black,Silicone,White,380.0
+watch_37,dasadsa,Watch,Male,48.0,10.0,X-Large,Plastic,Blue,Black,Silicone,Blue,310.0
+watch_38,dasadsa,Watch,Male,43.0,5.0,Large,Plastic,Black,LCD,Silicone,Black,769.0
+watch_39,dasadsa,Watch,Unisex,43.0,5.0,Large,Plastic,Black,LCD,Silicone,Black,880.0
+watch_40,dasadsa,Watch,Male,53.0,5.0,X-Large,Plastic,Black,LCD,Silicone,Black,899.0
+watch_41,dasadsa,Watch,Male,42.0,5.0,Medium,Plastic,Black,LCD,Silicone,Black,899.0
+watch_42,silfoli,Watch,Female,40.0,10.0,Medium,Stainless Steel,Rose Gold,Rose,Metal Bracelet,Rose Gold,999.0
+watch_43,aniemin,Watch,Female,28.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,899.0
+watch_44,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,White,Mother Of Pearl,Leather,Beige,899.0
+watch_45,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,215.0
+watch_46,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Gold,Black,Leather,Black,335.0
+watch_47,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,215.0
+watch_48,aniemin,Watch,Female,32.0,5.0,Small,Stainless Steel,Rose Gold,Mother Of Pearl,Metal Bracelet,Multicolor,235.0
+watch_49,aniemin,Watch,Male,41.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Black,295.0
+watch_50,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,184.0
+watch_51,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Rose Gold,Mother Of Pearl,Metal Bracelet,Rose Gold,278.0
+watch_52,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,215.0
+watch_53,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Blue,255.0
+watch_54,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,295.0
+watch_55,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,255.0
+watch_56,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,255.0
+watch_57,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,195.0
+watch_58,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,255.0
+watch_59,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,335.0
+watch_60,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Red,Metal Bracelet,Gold,255.0
+watch_61,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Red,Metal Bracelet,Gold,295.0
+watch_62,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Red,Metal Bracelet,Gold,1111.0
+watch_63,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Red,Metal Bracelet,Gold,1283.0
+watch_64,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Red,Metal Bracelet,Gold,982.0
+watch_65,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1583.0
+watch_66,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,854.0
+watch_67,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,982.0
+watch_68,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,982.0
+watch_69,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,639.0
+watch_70,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,1154.0
+watch_71,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,1369.0
+watch_72,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1154.0
+watch_73,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Two Tone,1626.0
+watch_74,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Two Tone,1025.0
+watch_75,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Two Tone,854.0
+watch_76,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Two Tone,255.0
+watch_77,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,982.0
+watch_78,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Two Tone,215.0
+watch_79,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Two Tone,295.0
+watch_80,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Two Tone,940.0
+watch_81,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Two Tone,295.0
+watch_82,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Two Tone,725.0
+watch_83,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Two Tone,511.0
+watch_84,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Two Tone,854.0
+watch_85,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Two Tone,987.0
+watch_86,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Brown,Brown,Metal Bracelet,Silver,854.0
+watch_87,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Brown,Brown,Metal Bracelet,Silver,682.0
+watch_88,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Brown,Brown,Metal Bracelet,Silver,854.0
+watch_89,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Brown,Brown,Metal Bracelet,Two Tone,854.0
+watch_90,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,1068.0
+watch_91,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,596.0
+watch_92,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,854.0
+watch_93,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,854.0
+watch_94,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,1068.0
+watch_95,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,725.0
+watch_96,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,811.0
+watch_97,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,854.0
+watch_98,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,854.0
+watch_99,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,811.0
+watch_100,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,725.0
+watch_101,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,596.0
+watch_102,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,596.0
+watch_103,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,639.0
+watch_104,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,854.0
+watch_105,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,596.0
+watch_106,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,682.0
+watch_107,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Rose Gold,553.0
+watch_108,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Rose Gold,1459.0
+watch_109,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Rose Gold,1283.0
+watch_110,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Rose Gold,1115.0
+watch_111,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Rose Gold,1115.0
+watch_112,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Rose Gold,682.0
+watch_113,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1459.0
+watch_114,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,854.0
+watch_115,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,811.0
+watch_116,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,854.0
+watch_117,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,768.0
+watch_118,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Green,Metal Bracelet,Gold,854.0
+watch_119,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Green,Metal Bracelet,Gold,425.0
+watch_120,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Green,Metal Bracelet,Gold,511.0
+watch_121,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Green,Metal Bracelet,Gold,511.0
+watch_122,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Green,Metal Bracelet,Gold,553.0
+watch_123,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Green,Metal Bracelet,Gold,1068.0
+watch_124,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,553.0
+watch_125,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,596.0
+watch_126,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,949.0
+watch_127,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,425.0
+watch_128,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,682.0
+watch_129,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,425.0
+watch_130,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,310.0
+watch_131,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,854.0
+watch_132,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,854.0
+watch_133,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,596.0
+watch_134,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1115.0
+watch_135,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Silver,Metal Bracelet,Two Tone,940.0
+watch_136,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Silver,Metal Bracelet,Two Tone,682.0
+watch_137,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Silver,Metal Bracelet,Two Tone,639.0
+watch_138,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Silver,Metal Bracelet,Two Tone,682.0
+watch_139,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Silver,Metal Bracelet,Two Tone,682.0
+watch_140,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Silver,Metal Bracelet,Two Tone,768.0
+watch_141,eeltwle,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,639.0
+watch_142,eeltwle,Watch,Female,40.0,10.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,811.0
+watch_143,eeltwle,Watch,Female,40.0,10.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,682.0
+watch_144,eeltwle,Watch,Female,40.0,10.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,725.0
+watch_145,eeltwle,Watch,Female,40.0,10.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Black,296.0
+watch_146,eeltwle,Watch,Female,40.0,10.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Two Tone,1025.0
+watch_147,eeltwle,Watch,Female,40.0,10.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Two Tone,296.0
+watch_148,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Two Tone,296.0
+watch_149,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Two Tone,849.0
+watch_150,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Black,Metal Bracelet,Two Tone,1030.0
+watch_151,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Two Tone,511.0
+watch_152,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Gold,Metal Bracelet,Two Tone,511.0
+watch_153,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Gold,Metal Bracelet,Two Tone,382.0
+watch_154,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Gold,Metal Bracelet,Two Tone,511.0
+watch_155,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Gold,Metal Bracelet,Two Tone,553.0
+watch_156,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Gold,Metal Bracelet,Two Tone,553.0
+watch_157,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Gold,Metal Bracelet,Two Tone,296.0
+watch_158,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Green,Metal Bracelet,Silver,339.0
+watch_159,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Green,Metal Bracelet,Gold,253.0
+watch_160,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Green,Metal Bracelet,Silver,425.0
+watch_161,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Green,Metal Bracelet,Two Tone,596.0
+watch_162,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Green,Metal Bracelet,Two Tone,596.0
+watch_163,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Green,Metal Bracelet,Two Tone,2269.0
+watch_164,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1712.0
+watch_165,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Red,Metal Bracelet,Two Tone,1712.0
+watch_166,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Red,Metal Bracelet,Two Tone,2227.0
+watch_167,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Red,Metal Bracelet,Two Tone,2227.0
+watch_168,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Red,Metal Bracelet,Two Tone,1969.0
+watch_169,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Red,Metal Bracelet,Two Tone,2012.0
+watch_170,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Red,Metal Bracelet,Two Tone,769.0
+watch_171,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,845.0
+watch_172,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,899.0
+watch_173,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,945.0
+watch_174,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,769.0
+watch_175,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,899.0
+watch_176,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,899.0
+watch_177,eeltwle,Watch,Unisex,50.0,10.0,X-Large,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,398.0
+watch_178,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,398.0
+watch_179,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,999.0
+watch_180,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,350.0
+watch_181,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,250.0
+watch_182,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,468.0
+watch_183,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Black,669.0
+watch_184,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,2012.0
+watch_185,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,1669.0
+watch_186,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,1669.0
+watch_187,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Blue,Leather,Blue,1969.0
+watch_188,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Blue,Leather,Blue,1411.0
+watch_189,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,1497.0
+watch_190,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Blue,Leather,Brown,1411.0
+watch_191,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Leather,Black,1497.0
+watch_192,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Leather,Black,290.0
+watch_193,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,White,Leather,Brown,290.0
+watch_194,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Rose Gold,White,Leather,Brown,390.0
+watch_195,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,350.0
+watch_196,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,390.0
+watch_197,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Brown,390.0
+watch_198,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Leather,Brown,569.0
+watch_199,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,468.0
+watch_200,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,682.0
+watch_201,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,590.0
+watch_202,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,769.0
+watch_203,silfoli,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,350.0
+watch_204,silfoli,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Silver,Leather,Brown,350.0
+watch_205,silfoli,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Cream,Leather,Brown,450.0
+watch_206,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Black,945.0
+watch_207,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,390.0
+watch_208,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Cream,Leather,Brown,290.0
+watch_209,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Cream,Leather,Brown,899.0
+watch_210,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Cream,Leather,Brown,450.0
+watch_211,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,550.0
+watch_212,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,450.0
+watch_213,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,550.0
+watch_214,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,450.0
+watch_215,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,569.0
+watch_216,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,899.0
+watch_217,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Black,769.0
+watch_218,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,669.0
+watch_219,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,669.0
+watch_220,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,450.0
+watch_221,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,450.0
+watch_222,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,1369.0
+watch_223,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,1299.0
+watch_224,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Brown,470.0
+watch_225,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,1290.0
+watch_226,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Brown,460.0
+watch_227,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,640.0
+watch_228,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Brown,640.0
+watch_229,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Black,999.0
+watch_230,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,999.0
+watch_231,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,594.0
+watch_232,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,594.0
+watch_233,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,769.0
+watch_234,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,215.0
+watch_235,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Black,165.0
+watch_236,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Leather,Black,295.0
+watch_237,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Leather,Black,315.0
+watch_238,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Leather,Black,215.0
+watch_239,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Black,255.0
+watch_240,seldile,Watch,Unisex,44.0,5.0,Large,Stainless Steel,White,White,Silicone,White,255.0
+watch_241,seldile,Watch,Male,46.0,10.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,135.0
+watch_242,seldile,Watch,Male,46.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,175.0
+watch_243,seldile,Watch,Male,46.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Brown,460.0
+watch_244,seldile,Watch,Male,46.0,10.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,1369.0
+watch_245,seldile,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,1300.0
+watch_246,seldile,Watch,Male,45.0,5.0,Large,Plastic,Black,Two Tone,Silicone,Black,1499.0
+watch_247,seldile,Watch,Male,45.0,10.0,Large,Plastic,Red,Black,Silicone,Red,1499.0
+watch_248,seldile,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1299.0
+watch_249,seldile,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,White,Metal Bracelet,Silver,640.0
+watch_250,seldile,Watch,Male,49.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,640.0
+watch_251,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Black,White,Leather,Brown,1299.0
+watch_252,seldile,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Silver,Blue,Leather,Brown,1369.0
+watch_253,seldile,Watch,Male,52.0,10.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1369.0
+watch_254,seldile,Watch,Male,52.0,5.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,1369.0
+watch_255,seldile,Watch,Male,49.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Leather,Black,1290.0
+watch_256,seldile,Watch,Male,59.0,10.0,X-Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1299.0
+watch_257,seldile,Watch,Male,52.0,10.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,580.0
+watch_258,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Black,Brown,Metal Bracelet,Black,580.0
+watch_259,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Black,470.0
+watch_260,seldile,Watch,Male,59.0,10.0,X-Large,Stainless Steel,Black,Blue,Metal Bracelet,Black,460.0
+watch_261,seldile,Watch,Male,49.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,950.0
+watch_262,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,460.0
+watch_263,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Gold,Black,Leather,Black,950.0
+watch_264,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1840.0
+watch_265,seldile,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,420.0
+watch_266,seldile,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Black,Black,Silicone,Red,175.0
+watch_267,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,155.0
+watch_268,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,315.0
+watch_269,seldile,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,1160.0
+watch_270,seldile,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Silver,Blue,Leather,Brown,235.0
+watch_271,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Black,109.0
+watch_272,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Black,175.0
+watch_273,seldile,Watch,Male,59.0,10.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,295.0
+watch_274,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,175.0
+watch_275,seldile,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,175.0
+watch_276,seldile,Watch,Female,38.0,5.0,Medium,Stainless Steel,Black,Multicolor,Metal Bracelet,Black,195.0
+watch_277,seldile,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Multicolor,Metal Bracelet,Gold,175.0
+watch_278,seldile,Watch,Male,51.0,3.0,X-Large,Stainless Steel,Silver,Two Tone,Leather,Black,769.0
+watch_279,seldile,Watch,Male,51.0,3.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,195.0
+watch_280,seldile,Watch,Male,66.0,3.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,109.0
+watch_281,seldile,Watch,Male,57.0,3.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,945.0
+watch_282,seldile,Watch,Male,57.0,3.0,X-Large,Stainless Steel,Silver,Blue,Leather,Brown,890.0
+watch_283,seldile,Watch,Male,57.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Black,1840.0
+watch_284,seldile,Watch,Male,51.0,3.0,X-Large,Stainless Steel,Black,Black,Leather,Black,1283.0
+watch_285,seldile,Watch,Male,60.0,3.0,X-Large,Stainless Steel,Black,Black,Silicone,Red,769.0
+watch_286,seldile,Watch,Male,57.0,3.0,X-Large,Stainless Steel,Black,Black,Leather,Black,899.0
+watch_287,silfoli,Watch,Female,38.0,10.0,Medium,Stainless Steel,Rose Gold,Rose,Metal Bracelet,Rose Gold,1240.0
+watch_288,silfoli,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,Silver,Leather,Brown,790.0
+watch_289,silfoli,Watch,Female,30.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Rose Gold,1926.0
+watch_290,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Rose,Metal Bracelet,Rose Gold,1886.0
+watch_291,silfoli,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,1840.0
+watch_292,silfoli,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,769.0
+watch_293,silfoli,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1250.0
+watch_294,silfoli,Watch,Female,39.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,1160.0
+watch_295,silfoli,Watch,Female,38.0,10.0,Medium,Stainless Steel,Rose Gold,Beige,Leather,Brown,1250.0
+watch_296,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,890.0
+watch_297,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,790.0
+watch_298,silfoli,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,Silver,Leather,Brown,790.0
+watch_299,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,790.0
+watch_300,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Silver,Leather,Brown,769.0
+watch_301,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Brown,669.0
+watch_302,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Leather,Black,594.0
+watch_303,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Silver,Leather,Brown,489.0
+watch_304,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,695.0
+watch_305,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,699.0
+watch_306,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Gold,Champagne,Metal Bracelet,Gold,699.0
+watch_307,silfoli,Watch,Female,26.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,Beige,699.0
+watch_308,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Rose,Metal Bracelet,Rose Gold,849.0
+watch_309,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Silver,Leather,Brown,419.0
+watch_310,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Blue,699.0
+watch_311,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Silver,Leather,Brown,310.0
+watch_312,silfoli,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Leather,Black,849.0
+watch_313,silfoli,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Black,Leather,Black,745.0
+watch_314,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,Beige,Leather,Brown,645.0
+watch_315,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Silver,Leather,Black,595.0
+watch_316,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,Silver,Leather,Brown,595.0
+watch_317,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,Silver,Leather,Brown,645.0
+watch_318,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,745.0
+watch_319,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Blue,Blue,Leather,Blue,495.0
+watch_320,silfoli,Watch,Female,39.0,3.0,Medium,Stainless Steel,Blue,Blue,Metal Bracelet,Blue,740.0
+watch_321,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Rose Gold,290.0
+watch_322,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Blue,Blue,Leather,Blue,419.0
+watch_323,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Brown,Brown,Leather,Brown,240.0
+watch_324,silfoli,Watch,Female,30.0,5.0,Small,Stainless Steel,Silver,Rose Gold,Metal Bracelet,Two Tone,270.0
+watch_325,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Silver,Leather,Blue,310.0
+watch_326,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Brown,489.0
+watch_327,silfoli,Watch,Female,34.0,5.0,Small,Stainless Steel,Black,Black,Leather,Black,350.0
+watch_328,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Multicolor,Metal Bracelet,Silver,240.0
+watch_329,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Brown,489.0
+watch_330,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,White,White,Leather,White,595.0
+watch_331,silfoli,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,699.0
+watch_332,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,White,Leather,White,669.0
+watch_333,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1849.0
+watch_334,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,669.0
+watch_335,silfoli,Watch,Male,45.0,5.0,Large,Stainless Steel,Brown,Brown,Metal Bracelet,Brown,669.0
+watch_336,silfoli,Watch,Male,45.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,468.0
+watch_337,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,Brown,Metal Bracelet,Black,260.0
+watch_338,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Cream,Leather,Brown,310.0
+watch_339,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,1497.0
+watch_340,silfoli,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1040.0
+watch_341,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,1583.0
+watch_342,silfoli,Watch,Male,45.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Brown,2227.0
+watch_343,silfoli,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,1798.0
+watch_344,silfoli,Watch,Unisex,48.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1712.0
+watch_345,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Beige,Leather,Brown,1369.0
+watch_346,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Blue,Leather,Blue,840.0
+watch_347,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Brown,545.0
+watch_348,silfoli,Watch,Male,45.0,5.0,Large,Stainless Steel,Rose Gold,Black,Leather,Black,840.0
+watch_349,silfoli,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Rose Gold,Black,Leather,Black,645.0
+watch_350,silfoli,Watch,Male,45.0,5.0,Large,Stainless Steel,Silver,Beige,Leather,Brown,1599.0
+watch_351,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Blue,Blue,Leather,Brown,930.0
+watch_352,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,645.0
+watch_353,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Brown,1369.0
+watch_354,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,420.0
+watch_355,silfoli,Smartwatch,Unisex,41.0,5.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,615.0
+watch_356,silfoli,Smartwatch,Unisex,50.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,645.0
+watch_357,silfoli,Smartwatch,Unisex,50.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,545.0
+watch_358,silfoli,Smartwatch,Unisex,41.0,5.0,Medium,Stainless Steel,Gold,Rose Gold,Leather,Black,510.0
+watch_359,silfoli,Smartwatch,Unisex,44.0,5.0,Large,Stainless Steel,Silver,Cream,Leather,Silver,495.0
+watch_360,silfoli,Smartwatch,Unisex,44.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,545.0
+watch_361,silfoli,Smartwatch,Unisex,46.0,5.0,Large,Stainless Steel,Silver,Black,Silicone,Black,445.0
+watch_362,silfoli,Smartwatch,Unisex,46.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,510.0
+watch_363,silfoli,Smartwatch,Unisex,40.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Leather,Blue,1099.0
+watch_364,silfoli,Smartwatch,Unisex,40.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Brown,400.0
+watch_365,silfoli,Smartwatch,Unisex,41.0,5.0,Medium,Stainless Steel,Rose Gold,White,Silicone,White,419.0
+watch_366,silfoli,Smartwatch,Unisex,44.0,5.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Blue,1345.0
+watch_367,silfoli,Smartwatch,Unisex,40.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Brown,1205.0
+watch_368,silfoli,Smartwatch,Unisex,40.0,5.0,Medium,Stainless Steel,Blue,Blue,Metal Bracelet,Blue,1110.0
+watch_369,silfoli,Smartwatch,Unisex,45.0,5.0,Large,Stainless Steel,Rose Gold,Black,Leather,Brown,1110.0
+watch_370,silfoli,Smartwatch,Unisex,45.0,5.0,Large,Stainless Steel,Black,Black,Silicone,Black,320.0
+watch_371,silfoli,Smartwatch,Unisex,45.0,5.0,Large,Stainless Steel,Black,Black,Leather,Brown,1110.0
+watch_372,silfoli,Smartwatch,Unisex,45.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1099.0
+watch_373,silfoli,Smartwatch,Unisex,45.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,550.0
+watch_374,silfoli,Smartwatch,Unisex,45.0,5.0,Large,Stainless Steel,Silver,LCD,Metal Bracelet,Silver,645.0
+watch_375,silfoli,Smartwatch,Unisex,45.0,5.0,Large,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,314.0
+watch_376,silfoli,Smartwatch,Unisex,45.0,5.0,Large,Stainless Steel,Red,LCD,Leather,Brown,845.0
+watch_377,silfoli,Smartwatch,Unisex,46.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Two Tone,314.0
+watch_378,eeltwle,Watch,Male,42.0,10.0,Medium,Stainless Steel,Silver,Black,Silicone,Black,600.0
+watch_379,eeltwle,Watch,Male,46.0,10.0,Large,Stainless Steel,Silver,Black,Silicone,Black,415.0
+watch_380,eeltwle,Watch,Male,42.0,10.0,Medium,Stainless Steel,Silver,Black,Silicone,Blue,489.0
+watch_381,eeltwle,Watch,Male,46.0,10.0,Large,Stainless Steel,Blue,Black,Silicone,Blue,415.0
+watch_382,silfoli,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Black,230.0
+watch_383,silfoli,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,314.0
+watch_384,silfoli,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1099.0
+watch_385,silfoli,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,895.0
+watch_386,silfoli,Watch,Male,50.0,3.0,X-Large,Stainless Steel,Silver,Beige,Leather,Blue,1145.0
+watch_387,silfoli,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Blue,Blue,Leather,Brown,1099.0
+watch_388,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Cream,Metal Bracelet,Silver,1299.0
+watch_389,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1099.0
+watch_390,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1299.0
+watch_391,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Cream,Metal Bracelet,Silver,1250.0
+watch_392,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,1490.0
+watch_393,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1499.0
+watch_394,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Silver,Leather,Black,1250.0
+watch_395,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,1499.0
+watch_396,orsmisr,Watch,Female,42.0,5.0,Medium,Stainless Steel,Gold,Champagne,Leather,Brown,1669.0
+watch_397,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Silver,Leather,Pink,460.0
+watch_398,orsmisr,Watch,Female,42.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1349.0
+watch_399,orsmisr,Watch,Female,42.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1849.0
+watch_400,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,640.0
+watch_401,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1283.0
+watch_402,orsmisr,Watch,Female,42.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1283.0
+watch_403,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,1411.0
+watch_404,orsmisr,Watch,Female,42.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,1840.0
+watch_405,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1926.0
+watch_406,orsmisr,Watch,Female,42.0,5.0,Medium,Stainless Steel,Brown,Brown,Metal Bracelet,Brown,1583.0
+watch_407,orsmisr,Watch,Female,42.0,5.0,Medium,Stainless Steel,Gold,Rose Gold,Metal Bracelet,Two Tone,1497.0
+watch_408,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1197.0
+watch_409,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1497.0
+watch_410,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1283.0
+watch_411,orsmisr,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,2227.0
+watch_412,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Two Tone,1712.0
+watch_413,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1369.0
+watch_414,orsmisr,Watch,Female,33.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1283.0
+watch_415,orsmisr,Watch,Female,33.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,1926.0
+watch_416,orsmisr,Watch,Female,38.0,10.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,2012.0
+watch_417,orsmisr,Watch,Female,39.0,10.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1712.0
+watch_418,orsmisr,Watch,Female,36.0,10.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1626.0
+watch_419,orsmisr,Watch,Female,36.0,10.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1283.0
+watch_420,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,769.0
+watch_421,orsmisr,Watch,Female,33.0,10.0,Small,Stainless Steel,Rose Gold,Rose Gold,Acetate,Rose Gold,600.0
+watch_422,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Acetate,Two Tone,1199.0
+watch_423,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Two Tone,999.0
+watch_424,orsmisr,Watch,Female,37.0,5.0,Medium,Stainless Steel,Rose Gold,White,Acetate,Multicolor,1299.0
+watch_425,orsmisr,Watch,Female,39.0,10.0,Medium,Stainless Steel,Brown,Brown,Metal Bracelet,Brown,1154.0
+watch_426,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,1583.0
+watch_427,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,1068.0
+watch_428,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Cream,Leather,Brown,1497.0
+watch_429,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Cream,Leather,Brown,1926.0
+watch_430,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Cream,Leather,Brown,1583.0
+watch_431,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Cream,Leather,Brown,1497.0
+watch_432,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Brown,1197.0
+watch_433,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Brown,1068.0
+watch_434,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,1197.0
+watch_435,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Brown,1926.0
+watch_436,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,1583.0
+watch_437,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Black,Leather,Brown,1497.0
+watch_438,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Cream,Leather,Brown,1197.0
+watch_439,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Cream,Leather,Brown,1068.0
+watch_440,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Cream,Leather,Brown,1583.0
+watch_441,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Cream,Leather,Brown,1068.0
+watch_442,knydkyn,Watch,Female,24.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,2956.0
+watch_443,knydkyn,Watch,Female,20.0,3.0,Small,Stainless Steel,Gold,Silver,Metal Bracelet,Two Tone,845.0
+watch_444,knydkyn,Watch,Female,20.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,669.0
+watch_445,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,2784.0
+watch_446,knydkyn,Watch,Female,28.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,2784.0
+watch_447,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,2698.0
+watch_448,knydkyn,Watch,Female,24.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,2570.0
+watch_449,knydkyn,Watch,Female,24.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,2698.0
+watch_450,knydkyn,Watch,Female,24.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,2570.0
+watch_451,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,2698.0
+watch_452,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,2570.0
+watch_453,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Gold,Black,Metal Bracelet,Gold,2698.0
+watch_454,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,2570.0
+watch_455,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,2269.0
+watch_456,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,2141.0
+watch_457,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,2269.0
+watch_458,knydkyn,Watch,Female,29.0,5.0,Small,Stainless Steel,Rose Gold,White,Ceramic,White,2141.0
+watch_459,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,2269.0
+watch_460,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,White,Metal Bracelet,Gold,2141.0
+watch_461,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,2269.0
+watch_462,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,White,Leather,Black,2141.0
+watch_463,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,1840.0
+watch_464,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,1712.0
+watch_465,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1497.0
+watch_466,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,1583.0
+watch_467,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Cream,Leather,Cream,1497.0
+watch_468,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,1583.0
+watch_469,knydkyn,Watch,Female,24.0,3.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1283.0
+watch_470,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Black,Silicone,Black,1283.0
+watch_471,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Blue,Silicone,Blue,1840.0
+watch_472,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Black,Silicone,Black,1712.0
+watch_473,torsero,Watch,Male,49.0,10.0,X-Large,Plastic,Black,LCD,Silicone,Black,1583.0
+watch_474,torsero,Watch,Male,47.0,10.0,X-Large,Plastic,Blue,Black,Leather,Blue,1411.0
+watch_475,torsero,Watch,Male,50.0,10.0,X-Large,Plastic,Black,Black,Fabric,Black,596.0
+watch_476,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Leather,Black,596.0
+watch_477,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Brown,Leather,Brown,1111.0
+watch_478,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Beige,Leather,Brown,1240.0
+watch_479,torsero,Watch,Male,44.0,10.0,Large,Plastic,Black,Black,Silicone,Black,811.0
+watch_480,torsero,Watch,Male,44.0,10.0,Large,Plastic,Blue,Blue,Leather,Blue,596.0
+watch_481,torsero,Watch,Male,44.0,10.0,Large,Plastic,Black,Black,Leather,Black,639.0
+watch_482,torsero,Watch,Male,40.0,10.0,Medium,Plastic,Blue,Blue,Fabric,Blue,725.0
+watch_483,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Blue,811.0
+watch_484,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Black,596.0
+watch_485,torsero,Watch,Female,41.0,10.0,Medium,Plastic,Black,Black,Silicone,Black,811.0
+watch_486,torsero,Watch,Female,36.0,10.0,Medium,Plastic,White,White,Silicone,White,811.0
+watch_487,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Black,Black,Silicone,Two Tone,768.0
+watch_488,torsero,Watch,Male,47.0,10.0,X-Large,Plastic,Black,LCD,Silicone,Black,811.0
+watch_489,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,553.0
+watch_490,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,639.0
+watch_491,torsero,Watch,Male,46.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,596.0
+watch_492,torsero,Watch,Male,46.0,10.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,596.0
+watch_493,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,596.0
+watch_494,torsero,Watch,Male,39.0,10.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,682.0
+watch_495,torsero,Watch,Male,39.0,10.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,639.0
+watch_496,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,639.0
+watch_497,torsero,Watch,Female,31.0,10.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,596.0
+watch_498,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,398.0
+watch_499,torsero,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1490.0
+watch_500,torsero,Watch,Female,32.0,10.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1150.0
+watch_501,torsero,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,Beige,Metal Bracelet,Silver,769.0
+watch_502,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,949.0
+watch_503,torsero,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,769.0
+watch_504,torsero,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,645.0
+watch_505,torsero,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Rose Gold,Metal Bracelet,Silver,445.0
+watch_506,torsero,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,769.0
+watch_507,torsero,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Purple,Metal Bracelet,Silver,350.0
+watch_508,torsero,Watch,Male,44.0,10.0,Large,Stainless Steel,Black,Black,Silicone,Black,590.0
+watch_509,torsero,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,White,Leather,Black,590.0
+watch_510,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Leather,Purple,390.0
+watch_511,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Blue,Leather,Black,1150.0
+watch_512,torsero,Watch,Male,49.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Green,1299.0
+watch_513,torsero,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,899.0
+watch_514,torsero,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Black,260.0
+watch_515,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Leather,Black,669.0
+watch_516,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1499.0
+watch_517,torsero,Watch,Male,39.0,10.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,1490.0
+watch_518,torsero,Watch,Male,39.0,10.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,450.0
+watch_519,torsero,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1290.0
+watch_520,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,2484.0
+watch_521,torsero,Watch,Male,41.0,10.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1150.0
+watch_522,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1626.0
+watch_523,torsero,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,769.0
+watch_524,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,350.0
+watch_525,torsero,Watch,Male,43.0,10.0,Large,Stainless Steel,Black,Beige,Metal Bracelet,Black,999.0
+watch_526,rlafual,Watch,Female,38.0,3.0,Medium,Stainless Steel,Gold,Black,Leather,Black,553.0
+watch_527,rlafual,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,854.0
+watch_528,rlafual,Watch,Female,34.0,3.0,Small,Stainless Steel,Gold,Blue,Leather,Blue,849.0
+watch_529,rlafual,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,Silver,Leather,Black,1283.0
+watch_530,rlafual,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Pink,Leather,Pink,1283.0
+watch_531,rlafual,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Red,Leather,Red,1283.0
+watch_532,rlafual,Watch,Female,24.0,3.0,Small,Stainless Steel,Silver,Silver,Leather,Beige,725.0
+watch_533,rlafual,Watch,Female,35.0,3.0,Small,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,982.0
+watch_534,rlafual,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,Purple,Metal Bracelet,Silver,982.0
+watch_535,rlafual,Watch,Female,35.0,5.0,Small,Stainless Steel,Gold,Blue,Metal Bracelet,Gold,768.0
+watch_536,rlafual,Watch,Female,25.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,210.0
+watch_537,rlafual,Watch,Female,34.0,3.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,210.0
+watch_538,rlafual,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,725.0
+watch_539,rlafual,Watch,Female,24.0,3.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,768.0
+watch_540,rlafual,Watch,Female,24.0,3.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Two Tone,725.0
+watch_541,rlafual,Watch,Female,24.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,210.0
+watch_542,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,Rose Gold,Leather,Pink,725.0
+watch_543,llijuil,Watch,Female,32.0,3.0,Small,Stainless Steel,Gold,Gold,Leather,Green,725.0
+watch_544,llijuil,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Silver,Leather,White,640.0
+watch_545,llijuil,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Rose Gold,Leather,Pink,599.0
+watch_546,llijuil,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Blue,Leather,Blue,420.0
+watch_547,llijuil,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Black,380.0
+watch_548,llijuil,Watch,Female,38.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Black,314.0
+watch_549,llijuil,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Black,745.0
+watch_550,llijuil,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Beige,Leather,Two Tone,695.0
+watch_551,llijuil,Watch,Female,38.0,3.0,Medium,Stainless Steel,Rose Gold,Red,Leather,Red,400.0
+watch_552,llijuil,Watch,Female,36.0,3.0,Medium,Stainless Steel,Gold,Black,Leather,Black,899.0
+watch_553,llijuil,Watch,Female,35.0,3.0,Small,Stainless Steel,Rose Gold,Rose Gold,Leather,Brown,538.0
+watch_554,llijuil,Watch,Female,40.0,3.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,White,769.0
+watch_555,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,769.0
+watch_556,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Rose Gold,Metal Bracelet,Two Tone,290.0
+watch_557,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,849.0
+watch_558,llijuil,Watch,Female,27.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,745.0
+watch_559,llijuil,Watch,Female,27.0,3.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,255.0
+watch_560,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Rose Gold,Metal Bracelet,Two Tone,215.0
+watch_561,llijuil,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,335.0
+watch_562,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,255.0
+watch_563,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,335.0
+watch_564,llijuil,Watch,Female,36.0,3.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,195.0
+watch_565,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Gold,Beige,Metal Bracelet,Gold,195.0
+watch_566,llijuil,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,295.0
+watch_567,llijuil,Watch,Female,40.0,3.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,195.0
+watch_568,llijuil,Watch,Female,40.0,3.0,Medium,Stainless Steel,Silver,Rose Gold,Metal Bracelet,Two Tone,184.0
+watch_569,llijuil,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,240.0
+watch_570,llijuil,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,669.0
+watch_571,llijuil,Watch,Female,35.0,3.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,769.0
+watch_572,llijuil,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,569.0
+watch_573,llijuil,Watch,Female,35.0,3.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,769.0
+watch_574,llijuil,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,899.0
+watch_575,llijuil,Watch,Female,40.0,3.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,595.0
+watch_576,atimait,Watch,Male,46.0,10.0,Large,Stainless Steel,Black,Clear,Leather,Black,845.0
+watch_577,atimait,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Clear,Leather,Black,350.0
+watch_578,atimait,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Clear,Leather,Black,1699.0
+watch_579,atimait,Watch,Male,49.0,10.0,X-Large,Stainless Steel,Rose Gold,Brown,Leather,Black,1299.0
+watch_580,atimait,Watch,Male,42.0,10.0,Medium,Stainless Steel,Black,Black,Leather,Black,1299.0
+watch_581,atimait,Watch,Male,42.0,10.0,Medium,Stainless Steel,Brown,Brown,Leather,Brown,450.0
+watch_582,atimait,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Silver,Leather,Black,450.0
+watch_583,atimait,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Blue,Leather,Blue,250.0
+watch_584,atimait,Watch,Male,43.0,10.0,Large,Stainless Steel,Black,Black,Silicone,Black,590.0
+watch_585,atimait,Watch,Male,43.0,10.0,Large,Stainless Steel,Blue,Black,Silicone,Black,590.0
+watch_586,atimait,Watch,Male,45.0,10.0,Large,Stainless Steel,Rose Gold,Black,Leather,Black,590.0
+watch_587,atimait,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Black,1369.0
+watch_588,atimait,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Black,1750.0
+watch_589,atimait,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1290.0
+watch_590,atimait,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Beige,1290.0
+watch_591,atimait,Watch,Male,42.0,10.0,Medium,Stainless Steel,Black,Brown,Leather,Brown,909.0
+watch_592,atimait,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Leather,Black,640.0
+watch_593,atimait,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,1899.0
+watch_594,atimait,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Black,1599.0
+watch_595,atimait,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Blue,Silicone,Black,1299.0
+watch_596,atimait,Watch,Male,42.0,5.0,Medium,Stainless Steel,Gold,Brown,Leather,Brown,640.0
+watch_597,atimait,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,640.0
+watch_598,atimait,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Gold,Brown,Metal Bracelet,Two Tone,640.0
+watch_599,genskne,Smartwatch,Unisex,42.0,3.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,1369.0
+watch_600,genskne,Smartwatch,Unisex,42.0,3.0,Medium,Stainless Steel,Silver,Silver,Leather,Black,1369.0
+watch_601,genskne,Smartwatch,Unisex,42.0,3.0,Medium,Stainless Steel,Rose Gold,Blue,Leather,Brown,1369.0
+watch_602,genskne,Smartwatch,Unisex,42.0,3.0,Medium,Titanium,Silver,Black,Leather,Brown,1390.0
+watch_603,genskne,Smartwatch,Unisex,42.0,3.0,Medium,Stainless Steel,Blue,White,Metal Bracelet,Gold,650.0
+watch_604,genskne,Smartwatch,Unisex,42.0,3.0,Medium,Stainless Steel,Black,White,Metal Bracelet,Gold,2550.0
+watch_605,genskne,Smartwatch,Unisex,42.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Gold,699.0
+watch_606,genskne,Smartwatch,Unisex,41.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,1369.0
+watch_607,genskne,Smartwatch,Unisex,41.0,3.0,Medium,Titanium,Black,Black,Leather,Black,1750.0
+watch_608,genskne,Smartwatch,Unisex,40.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Black,849.0
+watch_609,genskne,Smartwatch,Unisex,40.0,3.0,Medium,Stainless Steel,Gold,White,Leather,Brown,999.0
+watch_610,genskne,Smartwatch,Unisex,40.0,3.0,Medium,Stainless Steel,Black,Black,Leather,Black,215.0
+watch_611,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Silver,215.0
+watch_612,genskne,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,999.0
+watch_613,genskne,Watch,Female,32.0,3.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Silver,640.0
+watch_614,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1290.0
+watch_615,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,1149.0
+watch_616,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,1290.0
+watch_617,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Gold,Gold,Leather,Brown,580.0
+watch_618,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,470.0
+watch_619,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,1290.0
+watch_620,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,580.0
+watch_621,genskne,Watch,Female,22.0,3.0,Small,Stainless Steel,Gold,Gold,Leather,Brown,580.0
+watch_622,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Silver,Silver,Leather,Brown,1369.0
+watch_623,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,510.0
+watch_624,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Brown,1150.0
+watch_625,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Black,990.0
+watch_626,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,Black,Leather,Black,640.0
+watch_627,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Gold,Black,Leather,Black,999.0
+watch_628,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,874.0
+watch_629,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,255.0
+watch_630,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Gold,Silver,Metal Bracelet,Silver,235.0
+watch_631,genskne,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Black,Leather,Black,215.0
+watch_632,genskne,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,979.0
+watch_633,genskne,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,Black,Metal Bracelet,Black,909.0
+watch_634,genskne,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,979.0
+watch_635,genskne,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,Brown,595.0
+watch_636,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,699.0
+watch_637,genskne,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Silver,Leather,Black,669.0
+watch_638,genskne,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Blue,Leather,Brown,745.0
+watch_639,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,669.0
+watch_640,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,699.0
+watch_641,genskne,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,290.0
+watch_642,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Silver,538.0
+watch_643,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Silver,Blue,Leather,Brown,699.0
+watch_644,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Gold,White,Leather,Blue,545.0
+watch_645,genskne,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Brown,769.0
+watch_646,genskne,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,White,Leather,Black,499.0
+watch_647,genskne,Watch,Male,40.0,5.0,Medium,Titanium,Black,Black,Metal Bracelet,Black,594.0
+watch_648,genskne,Watch,Male,40.0,5.0,Medium,Titanium,Black,Black,Metal Bracelet,Black,240.0
+watch_649,genskne,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,645.0
+watch_650,genskne,Watch,Male,42.0,5.0,Medium,Titanium,Black,Black,Metal Bracelet,Black,290.0
+watch_651,genskne,Watch,Male,40.0,5.0,Medium,Titanium,Black,Black,Metal Bracelet,Black,849.0
+watch_652,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Brown,1299.0
+watch_653,genskne,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,290.0
+watch_654,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,330.0
+watch_655,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,260.0
+watch_656,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Black,290.0
+watch_657,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Black,419.0
+watch_658,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Black,Black,Leather,Brown,1699.0
+watch_659,genskne,Watch,Male,41.0,3.0,Medium,Stainless Steel,Black,Blue,Leather,Brown,999.0
+watch_660,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1245.0
+watch_661,genskne,Watch,Male,40.0,10.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,1099.0
+watch_662,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,640.0
+watch_663,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,1199.0
+watch_664,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Brown,699.0
+watch_665,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,699.0
+watch_666,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Brown,799.0
+watch_667,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,999.0
+watch_668,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Brown,669.0
+watch_669,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Black,640.0
+watch_670,genskne,Watch,Male,40.0,5.0,Medium,Titanium,Silver,Black,Leather,Brown,460.0
+watch_671,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Blue,White,Metal Bracelet,Blue,899.0
+watch_672,genskne,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1369.0
+watch_673,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Black,510.0
+watch_674,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Black,580.0
+watch_675,genskne,Watch,Male,42.0,3.0,Medium,Titanium,Black,Blue,Metal Bracelet,Black,640.0
+watch_676,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Silver,Black,Silicone,Black,1599.0
+watch_677,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Rose Gold,Blue,Silicone,Blue,640.0
+watch_678,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Black,Silicone,Black,510.0
+watch_679,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Rose Gold,Black,Silicone,Black,1849.0
+watch_680,eeltwle,Watch,Male,48.0,10.0,X-Large,Titanium,Black,Black,Silicone,Black,460.0
+watch_681,eeltwle,Watch,Female,40.0,10.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Two Tone,650.0
+watch_682,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Two Tone,1669.0
+watch_683,eeltwle,Watch,Female,45.0,10.0,Large,Stainless Steel,Silver,Rose Gold,Silicone,Rose Gold,650.0
+watch_684,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Silicone,Black,1349.0
+watch_685,eeltwle,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Black,Black,Silicone,Black,999.0
+watch_686,eeltwle,Watch,Male,48.0,10.0,X-Large,Stainless Steel,Black,Black,Silicone,Black,999.0
+watch_687,eeltwle,Watch,Male,45.0,5.0,Large,Stainless Steel,Silver,Black,Silicone,Black,950.0
+watch_688,eeltwle,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Silver,Black,Silicone,Black,1499.0
+watch_689,rditrid,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Beige,Leather,Brown,1499.0
+watch_690,rditrid,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,1250.0
+watch_691,rditrid,Watch,Male,44.0,5.0,Large,Stainless Steel,Gold,Blue,Leather,Brown,510.0
+watch_692,rditrid,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,999.0
+watch_693,rditrid,Watch,Male,40.0,5.0,Medium,Stainless Steel,Rose Gold,Blue,Leather,Blue,2399.0
+watch_694,rditrid,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Black,999.0
+watch_695,rditrid,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,470.0
+watch_696,rditrid,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Beige,Leather,Brown,470.0
+watch_697,rditrid,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Silver,Blue,Leather,Brown,1499.0
+watch_698,rditrid,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,160.0
+watch_699,rditrid,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Rose Gold,Silver,Leather,Brown,250.0
+watch_700,rditrid,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Gold,Silver,Leather,Brown,725.0
+watch_701,rditrid,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Silver,Silver,Leather,Black,815.0
+watch_702,rditrid,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Blue,Metal Bracelet,Black,250.0
+watch_703,rditrid,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Gold,Silver,Leather,Black,260.0
+watch_704,rditrid,Watch,Female,34.0,5.0,Small,Stainless Steel,Gold,Silver,Leather,Red,408.0
+watch_705,rditrid,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Black,Leather,Black,250.0
+watch_706,rditrid,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,468.0
+watch_707,rditrid,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,751.0
+watch_708,rditrid,Watch,Female,42.0,3.0,Medium,Stainless Steel,Gold,Black,Leather,Black,639.0
+watch_709,rditrid,Watch,Female,42.0,3.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,180.0
+watch_710,rditrid,Watch,Female,42.0,3.0,Medium,Stainless Steel,Gold,Silver,Metal Bracelet,Gold,170.0
+watch_711,rditrid,Watch,Female,42.0,3.0,Medium,Stainless Steel,Gold,Brown,Leather,Brown,170.0
+watch_712,rditrid,Watch,Female,42.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,382.0
+watch_713,rditrid,Watch,Female,25.0,3.0,Small,Stainless Steel,Silver,Black,Leather,Black,140.0
+watch_714,rditrid,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,725.0
+watch_715,rditrid,Watch,Female,33.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Two Tone,665.0
+watch_716,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,665.0
+watch_717,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,220.0
+watch_718,orsmisr,Watch,Female,39.0,10.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Two Tone,536.0
+watch_719,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Gold,Blue,Metal Bracelet,Gold,682.0
+watch_720,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Brown,Brown,Metal Bracelet,Brown,250.0
+watch_721,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Gold,Rose Gold,Metal Bracelet,Two Tone,250.0
+watch_722,orsmisr,Watch,Female,38.0,10.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,260.0
+watch_723,orsmisr,Watch,Female,38.0,10.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,382.0
+watch_724,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,725.0
+watch_725,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,725.0
+watch_726,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Silver,Leather,Silver,210.0
+watch_727,knydkyn,Watch,Female,24.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,210.0
+watch_728,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Clear,Leather,Black,270.0
+watch_729,aniemin,Watch,Female,32.0,1.0,Small,Stainless Steel,Mother Of Pearl,Mother Of Pearl,Leather,Brown,250.0
+watch_730,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,622.0
+watch_731,atimait,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Silicone,Black,837.0
+watch_732,addkndd,Watch,Male,38.0,5.0,Medium,Stainless Steel,Gold,White,Leather,Brown,837.0
+watch_733,addkndd,Watch,Male,38.0,5.0,Medium,Stainless Steel,Gold,Black,Leather,Black,837.0
+watch_734,addkndd,Watch,Male,38.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1154.0
+watch_735,addkndd,Watch,Male,38.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Brown,1154.0
+watch_736,addkndd,Watch,Female,35.0,3.0,Small,Stainless Steel,Gold,White,Leather,Brown,1154.0
+watch_737,addkndd,Watch,Female,35.0,3.0,Small,Stainless Steel,Gold,White,Leather,White,1068.0
+watch_738,addkndd,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,White,Leather,Brown,1068.0
+watch_739,addkndd,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,White,Leather,White,1068.0
+watch_740,addkndd,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,686.0
+watch_741,addkndd,Watch,Female,35.0,3.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,622.0
+watch_742,addkndd,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,250.0
+watch_743,addkndd,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,White,1111.0
+watch_744,addkndd,Watch,Unisex,38.0,10.0,Medium,Stainless Steel,Silver,Black,Leather,Black,1111.0
+watch_745,addkndd,Watch,Unisex,38.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Brown,1025.0
+watch_746,addkndd,Watch,Unisex,38.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Black,1025.0
+watch_747,silfoli,Watch,Female,40.0,10.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,965.0
+watch_748,aniemin,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,Mother of pearl,Leather,Blue,965.0
+watch_749,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Mother of pearl,Leather,Blue,725.0
+watch_750,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Silver,Leather,Brown,260.0
+watch_751,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Rose Gold,Black,Silicone,Black,260.0
+watch_752,aniemin,Watch,Male,42.0,3.0,Medium,Ceramic,Black,Black,Ceramic,Black,240.0
+watch_753,aniemin,Watch,Male,43.0,3.0,Large,Stainless Steel,Silver,Black,Leather,Black,1025.0
+watch_754,aniemin,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,425.0
+watch_755,aniemin,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,180.0
+watch_756,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,725.0
+watch_757,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,270.0
+watch_758,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Leather,Brown,768.0
+watch_759,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,768.0
+watch_760,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Rose Gold,Two Tone,Metal Bracelet,Two Tone,1025.0
+watch_761,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1094.0
+watch_762,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Blue,Metal Bracelet,Black,596.0
+watch_763,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Blue,Leather,Blue,240.0
+watch_764,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Brown,250.0
+watch_765,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,250.0
+watch_766,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Brown,Leather,Brown,250.0
+watch_767,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Champagne,Leather,Brown,296.0
+watch_768,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,296.0
+watch_769,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,296.0
+watch_770,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,682.0
+watch_771,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,270.0
+watch_772,aniemin,Watch,Male,43.0,3.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,999.0
+watch_773,aniemin,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1369.0
+watch_774,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Blue,1197.0
+watch_775,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Multicolor,Metal Bracelet,Two Tone,1798.0
+watch_776,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Mother Of Pearl,Leather,Blue,1154.0
+watch_777,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Rose Gold,Silver,Leather,Beige,640.0
+watch_778,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1669.0
+watch_779,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,909.0
+watch_780,silfoli,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,White,Leather,Brown,400.0
+watch_781,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,769.0
+watch_782,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Silver,Grey,Leather,Brown,538.0
+watch_783,seldile,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Leather,Brown,1299.0
+watch_784,seldile,Watch,Male,46.0,10.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,470.0
+watch_785,seldile,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1149.0
+watch_786,seldile,Watch,Male,47.0,10.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,640.0
+watch_787,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1499.0
+watch_788,seldile,Watch,Male,52.0,10.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1149.0
+watch_789,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,580.0
+watch_790,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1149.0
+watch_791,seldile,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,640.0
+watch_792,seldile,Watch,Male,57.0,3.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,640.0
+watch_793,silfoli,Watch,Female,32.0,5.0,Small,Stainless Steel,Rose Gold,Black,Leather,Black,1369.0
+watch_794,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,958.0
+watch_795,silfoli,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1369.0
+watch_796,silfoli,Watch,Female,30.0,5.0,Small,Stainless Steel,Silver,Rose Gold,Metal Bracelet,Two Tone,1369.0
+watch_797,silfoli,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Brown,398.0
+watch_798,silfoli,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Two Tone,Metal Bracelet,Two Tone,260.0
+watch_799,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Cream,260.0
+watch_800,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Silver,Leather,Blue,398.0
+watch_801,silfoli,Watch,Female,39.0,5.0,Medium,Stainless Steel,Blue,Blue,Metal Bracelet,Blue,310.0
+watch_802,silfoli,Watch,Female,39.0,5.0,Medium,Stainless Steel,Red,Red,Metal Bracelet,Wine,349.0
+watch_803,silfoli,Watch,Female,30.0,5.0,Small,Stainless Steel,Silver,Gold,Metal Bracelet,Silver,569.0
+watch_804,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Leather,Pink,330.0
+watch_805,silfoli,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,Blue,Leather,Brown,449.0
+watch_806,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Leather,Beige,330.0
+watch_807,silfoli,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Blue,599.0
+watch_808,silfoli,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,538.0
+watch_809,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,310.0
+watch_810,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Leather,Brown,310.0
+watch_811,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,290.0
+watch_812,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Brown,Brown,Metal Bracelet,Brown,240.0
+watch_813,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,blue,Metal Bracelet,Silver,419.0
+watch_814,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,310.0
+watch_815,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Gold,Black,Leather,Black,310.0
+watch_816,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,468.0
+watch_817,silfoli,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,240.0
+watch_818,silfoli,Watch,Female,38.0,3.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,538.0
+watch_819,silfoli,Smartwatch,Male,46.0,5.0,Large,Stainless Steel,Blue,LCD,Leather,Brown,569.0
+watch_820,silfoli,Smartwatch,Male,42.0,5.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,599.0
+watch_821,silfoli,Smartwatch,Female,42.0,5.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Brown,419.0
+watch_822,silfoli,Smartwatch,Female,42.0,5.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,699.0
+watch_823,silfoli,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,769.0
+watch_824,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Brown,769.0
+watch_825,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Clear,Leather,Brown,899.0
+watch_826,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Leather,Rose Gold,979.0
+watch_827,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,Red,510.0
+watch_828,orsmisr,Watch,Female,36.5,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Red,1369.0
+watch_829,orsmisr,Watch,Female,40.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1499.0
+watch_830,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1249.0
+watch_831,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,1369.0
+watch_832,orsmisr,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,510.0
+watch_833,orsmisr,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,1249.0
+watch_834,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,650.0
+watch_835,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1149.0
+watch_836,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,1499.0
+watch_837,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,580.0
+watch_838,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,510.0
+watch_839,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,2399.0
+watch_840,orsmisr,Watch,Female,39.0,10.0,Medium,Stainless Steel,Gold,White,Metal Bracelet,Gold,510.0
+watch_841,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,460.0
+watch_842,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,510.0
+watch_843,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,899.0
+watch_844,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,999.0
+watch_845,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,745.0
+watch_846,orsmisr,Watch,Female,36.5,5.0,Medium,Stainless Steel,Gold,Black,Metal Bracelet,Gold,398.0
+watch_847,orsmisr,Watch,Female,33.0,10.0,Small,Stainless Steel,Gold,Black,Metal Bracelet,Gold,468.0
+watch_848,orsmisr,Watch,Female,36.5,5.0,Medium,Stainless Steel,Gold,Black,Metal Bracelet,Gold,538.0
+watch_849,orsmisr,Watch,Female,40.0,10.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,538.0
+watch_850,orsmisr,Watch,Female,39.0,3.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,560.0
+watch_851,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,654.0
+watch_852,orsmisr,Watch,Female,39.0,10.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,569.0
+watch_853,orsmisr,Watch,Female,42.0,10.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,569.0
+watch_854,orsmisr,Watch,Female,43.0,10.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,599.0
+watch_855,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,699.0
+watch_856,orsmisr,Watch,Female,37.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,699.0
+watch_857,orsmisr,Watch,Female,43.0,5.0,Large,Stainless Steel,Gold,Rose Gold,Metal Bracelet,Two Tone,849.0
+watch_858,orsmisr,Watch,Female,37.0,5.0,Medium,Stainless Steel,Gold,White,Metal Bracelet,Two Tone,400.0
+watch_859,orsmisr,Watch,Female,40.0,3.0,Medium,Stainless Steel,Gold,White,Metal Bracelet,Gold,699.0
+watch_860,orsmisr,Watch,Female,40.0,3.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,420.0
+watch_861,orsmisr,Watch,Male,45.0,10.0,Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,899.0
+watch_862,orsmisr,Smartwatch,Female,42.0,3.0,Medium,Stainless Steel,Gold,LCD,Metal Bracelet,Gold,398.0
+watch_863,orsmisr,Smartwatch,Female,42.0,3.0,Medium,Stainless Steel,Black,LCD,Metal Bracelet,Black,769.0
+watch_864,orsmisr,Smartwatch,Female,44.5,3.0,Large,Stainless Steel,Gold,LCD,Metal Bracelet,Gold,629.0
+watch_865,orsmisr,Smartwatch,Female,44.5,3.0,Large,Stainless Steel,Rose Gold,LCD,Metal Bracelet,Rose Gold,769.0
+watch_866,orsmisr,Smartwatch,Female,44.5,3.0,Large,Stainless Steel,Silver,LCD,Metal Bracelet,Silver,899.0
+watch_867,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Silver,LCD,Metal Bracelet,Silver,849.0
+watch_868,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Gold,LCD,Metal Bracelet,Gold,669.0
+watch_869,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Rose Gold,LCD,Metal Bracelet,Rose Gold,419.0
+watch_870,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Gold,LCD,Metal Bracelet,Gold,420.0
+watch_871,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Silver,LCD,Metal Bracelet,Silver,849.0
+watch_872,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Brown,LCD,Metal Bracelet,Brown,899.0
+watch_873,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Black,LCD,Metal Bracelet,Black,799.0
+watch_874,knydkyn,Watch,Female,20.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Two Tone,559.0
+watch_875,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,449.0
+watch_876,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Brown,799.0
+watch_877,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,White,White,Metal Bracelet,White,699.0
+watch_878,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,799.0
+watch_879,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Black,1299.0
+watch_880,knydkyn,Watch,Female,20.0,5.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1299.0
+watch_881,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,839.0
+watch_882,knydkyn,Watch,Female,20.0,5.0,Small,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,1199.0
+watch_883,knydkyn,Watch,Female,24.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1299.0
+watch_884,genskne,Watch,Male,42.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,1299.0
+watch_885,genskne,Watch,Male,42.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Black,1099.0
+watch_886,genskne,Watch,Male,42.0,3.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,629.0
+watch_887,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,559.0
+watch_888,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Black,1329.0
+watch_889,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,White,Leather,Beige,1599.0
+watch_890,genskne,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,769.0
+watch_891,genskne,Watch,Female,26.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,Black,240.0
+watch_892,genskne,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Black,Leather,Black,1599.0
+watch_893,genskne,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,White,Leather,Black,1199.0
+watch_894,genskne,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,745.0
+watch_895,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,White,Leather,Brown,999.0
+watch_896,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,999.0
+watch_897,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Black,1669.0
+watch_898,genskne,Watch,Male,41.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,845.0
+watch_899,genskne,Watch,Male,41.0,5.0,Medium,Stainless Steel,Green,Black,Metal Bracelet,Green,175.0
+watch_900,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Brown,135.0
+watch_901,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,175.0
+watch_902,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Black,Black,Leather,Brown,175.0
+watch_903,genskne,Watch,Male,40.0,3.0,Medium,Titanium,Rose Gold,White,Leather,Black,175.0
+watch_904,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Black,175.0
+watch_905,aniemin,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,215.0
+watch_906,orsmisr,Watch,Female,37.0,5.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,175.0
+watch_907,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,109.0
+watch_908,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,179.0
+watch_909,ssnu.ns,Watch,Unisex,40.0,5.0,Medium,Stainless Steel,Silver,Two Tone,Leather,White,81.0
+watch_910,ssnu.ns,Watch,Unisex,40.0,5.0,Medium,Stainless Steel,Black,Two Tone,Leather,Black,109.0
+watch_911,ssnu.ns,Watch,Unisex,40.0,5.0,Medium,Stainless Steel,Red,Two Tone,Leather,Red,175.0
+watch_912,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Blue,175.0
+watch_913,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,255.0
+watch_914,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,175.0
+watch_915,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Brown,203.0
+watch_916,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,151.0
+watch_917,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Gold,Leather,Black,255.0
+watch_918,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,175.0
+watch_919,ssnu.ns,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Blue,Fabric,Blue,175.0
+watch_920,ssnu.ns,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,White,Fabric,Black,123.0
+watch_921,ssnu.ns,Watch,Male,42.5,5.0,Medium,Stainless Steel,Black,Black,Silicone,Black,179.0
+watch_922,ssnu.ns,Watch,Male,42.5,5.0,Medium,Stainless Steel,Black,Blue,Leather,Blue,175.0
+watch_923,ssnu.ns,Watch,Male,44.0,3.0,Large,Stainless Steel,Silver,Two Tone,Silicone,Blue,175.0
+watch_924,ssnu.ns,Watch,Male,46.0,3.0,Large,Stainless Steel,Silver,Two Tone,Silicone,Blue,175.0
+watch_925,ssnu.ns,Watch,Male,44.0,3.0,Large,Stainless Steel,Silver,Black,Leather,Brown,135.0
+watch_926,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,175.0
+watch_927,ssnu.ns,Watch,Male,39.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Blue,215.0
+watch_928,ssnu.ns,Watch,Male,39.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,123.0
+watch_929,ssnu.ns,Watch,Male,39.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,215.0
+watch_930,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,White,Leather,Brown,175.0
+watch_931,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,175.0
+watch_932,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,175.0
+watch_933,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Two Tone,Leather,Black,215.0
+watch_934,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,Two Tone,Leather,Brown,255.0
+watch_935,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Two Tone,Leather,Black,335.0
+watch_936,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Brown,375.0
+watch_937,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,215.0
+watch_938,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Rose Gold,Blue,Leather,Blue,335.0
+watch_939,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,White,Leather,Black,151.0
+watch_940,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,215.0
+watch_941,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Brown,175.0
+watch_942,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,White,Leather,Brown,195.0
+watch_943,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,195.0
+watch_944,ssnu.ns,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,215.0
+watch_945,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Black,255.0
+watch_946,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,215.0
+watch_947,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,255.0
+watch_948,ssnu.ns,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,195.0
+watch_949,ssnu.ns,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,215.0
+watch_950,ssnu.ns,Watch,Male,41.0,5.0,Medium,Stainless Steel,Gold,Black,Leather,Black,215.0
+watch_951,ssnu.ns,Watch,Female,42.0,5.0,Medium,Stainless Steel,Rose Gold,Black,Fabric,Black,255.0
+watch_952,ssnu.ns,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Silicone,Black,175.0
+watch_953,ssnu.ns,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,White,Silicone,Blue,151.0
+watch_954,ssnu.ns,Watch,Female,40.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,1849.0
+watch_955,ssnu.ns,Watch,Female,40.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Black,290.0
+watch_956,ssnu.ns,Watch,Male,46.0,3.0,Large,Stainless Steel,Black,White,Silicone,Black,699.0
+watch_957,ssnu.ns,Watch,Male,46.0,3.0,Large,Stainless Steel,Rose Gold,Black,Silicone,Black,1149.0
+watch_958,ssnu.ns,Watch,Male,46.0,3.0,Large,Stainless Steel,Silver,Black,Silicone,Black,165.0
+watch_959,ssnu.ns,Watch,Female,38.5,3.0,Medium,Stainless Steel,Silver,White,Leather,Brown,151.0
+watch_960,ssnu.ns,Watch,Female,38.5,3.0,Medium,Stainless Steel,Silver,Black,Leather,Black,215.0
+watch_961,ssnu.ns,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Two Tone,255.0
+watch_962,ssnu.ns,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Black,235.0
+watch_963,ssnu.ns,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,White,Leather,White,255.0
+watch_964,ssnu.ns,Watch,Female,26.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,215.0
+watch_965,ssnu.ns,Watch,Female,26.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,215.0
+watch_966,ssnu.ns,Watch,Female,26.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,255.0
+watch_967,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,255.0
+watch_968,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,295.0
+watch_969,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,350.0
+watch_970,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,350.0
+watch_971,ssnu.ns,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,Blue,Leather,Blue,215.0
+watch_972,ssnu.ns,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Leather,White,290.0
+watch_973,ssnu.ns,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Rose,290.0
+watch_974,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Two Tone,234.0
+watch_975,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Two Tone,408.0
+watch_976,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,Brown,Metal Bracelet,Two Tone,408.0
+watch_977,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Two Tone,408.0
+watch_978,ssnu.ns,Watch,Female,30.0,3.0,Small,Stainless Steel,Gold,Black,Metal Bracelet,Two Tone,408.0
+watch_979,ssnu.ns,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,Silver,Leather,Black,408.0
+watch_980,ssnu.ns,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,366.0
+watch_981,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,387.0
+watch_982,silfoli,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Black,Blue,Metal Bracelet,Two Tone,450.0
+watch_983,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,450.0
+watch_984,aniemin,Watch,Female,28.0,3.0,Small,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,450.0
+watch_985,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,450.0
+watch_986,silfoli,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,450.0
+watch_987,silfoli,Watch,Female,40.0,5.0,Medium,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,450.0
+watch_988,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Mother Of Pearl,Leather,Pink,450.0
+watch_989,silfoli,Smartwatch,Unisex,44.0,3.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Two Tone,450.0
+watch_990,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,452.0
+watch_991,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,White,Metal Bracelet,Black,450.0
+watch_992,orsmisr,Watch,Female,38.0,5.0,Medium,Stainless Steel,Purple,Black,Metal Bracelet,Purple,450.0
+watch_993,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Leather,Rose Gold,450.0
+watch_994,orsmisr,Watch,Female,31.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,rose gold,450.0
+watch_995,orsmisr,Watch,Female,36.5,5.0,Medium,Stainless Steel,Gold,White,Leather,Two Tone,450.0
+watch_996,orsmisr,Watch,Female,36.5,5.0,Medium,Stainless Steel,Rose Gold,Silver,Leather,Two Tone,450.0
+watch_997,orsmisr,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Blue,450.0
+watch_998,orsmisr,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,pink,450.0
+watch_999,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,450.0
+watch_1000,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,387.0
+watch_1001,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Two Tone,899.0
+watch_1002,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,rose gold,699.0
+watch_1003,orsmisr,Watch,Female,37.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,rose gold,1045.0
+watch_1004,orsmisr,Watch,Female,32.0,5.0,Small,Stainless Steel,Rose Gold,Mother Of Pearl,Metal Bracelet,rose Gold,945.0
+watch_1005,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,899.0
+watch_1006,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Gold,Metal Bracelet,Rose Gold,899.0
+watch_1007,orsmisr,Watch,Female,31.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,gold,899.0
+watch_1008,orsmisr,Watch,Female,31.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,rose gold,450.0
+watch_1009,orsmisr,Watch,Female,41.0,5.0,Medium,Stainless Steel,Rose Gold,Mother Of Pearl,Metal Bracelet,rose gold,1369.0
+watch_1010,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,1369.0
+watch_1011,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,White,White,Metal Bracelet,White,790.0
+watch_1012,orsmisr,Watch,Male,43.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1369.0
+watch_1013,orsmisr,Watch,Male,43.0,10.0,Large,Stainless Steel,Gold,blue,Metal Bracelet,Two Tone,1189.0
+watch_1014,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,1189.0
+watch_1015,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,gold,1699.0
+watch_1016,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Rose Gold,Mother Of Pearl,Metal Bracelet,Rose Gold,959.0
+watch_1017,orsmisr,Watch,Female,40.0,10.0,Medium,Stainless Steel,Gold,White,Metal Bracelet,Two Tone,1299.0
+watch_1018,orsmisr,Watch,Female,40.0,10.0,Medium,Stainless Steel,Rose Gold,rose gold,Metal Bracelet,Two Tone,1369.0
+watch_1019,orsmisr,Watch,Female,40.0,10.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Two Tone,1189.0
+watch_1020,orsmisr,Watch,Female,26.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Two Tone,1189.0
+watch_1021,orsmisr,Watch,Female,26.0,5.0,Small,Stainless Steel,Rose Gold,rose gold,metal bracelet,Two Tone,1239.0
+watch_1022,orsmisr,Watch,Female,43.0,10.0,Large,Stainless Steel,White,White,Metal Bracelet,White,1294.0
+watch_1023,silfoli,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Black,Silicone,Black,1625.0
+watch_1024,silfoli,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,cream,Leather,Brown,450.0
+watch_1025,silfoli,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,White,Leather,Brown,408.0
+watch_1026,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Leather,pink,450.0
+watch_1027,silfoli,Watch,Female,34.0,3.0,Small,Stainless Steel,Gold,White,Leather,Brown,450.0
+watch_1028,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Blue,Leather,Brown,450.0
+watch_1029,silfoli,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,Blue,Leather,Brown,450.0
+watch_1030,silfoli,Watch,Female,26.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,beige,450.0
+watch_1031,silfoli,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,pink,Leather,pink,450.0
+watch_1032,silfoli,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,White,Leather,Black,450.0
+watch_1033,silfoli,Watch,Female,35.0,3.0,Small,Stainless Steel,Silver,Black,Leather,Brown,450.0
+watch_1034,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Cream,450.0
+watch_1035,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Mother Of Pearl,Leather,Black,450.0
+watch_1036,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,Brown,Leather,Brown,408.0
+watch_1037,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,Black,metal bracelet,Black,450.0
+watch_1038,silfoli,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,450.0
+watch_1039,silfoli,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,450.0
+watch_1040,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,450.0
+watch_1041,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,cream,Leather,Brown,450.0
+watch_1042,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,450.0
+watch_1043,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,blue,Leather,Brown,450.0
+watch_1044,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Brown,450.0
+watch_1045,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,450.0
+watch_1046,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,450.0
+watch_1047,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,408.0
+watch_1048,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,408.0
+watch_1049,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,408.0
+watch_1050,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,408.0
+watch_1051,silfoli,Smartwatch,Male,42.0,3.0,Medium,Stainless Steel,Brown,Brown,Leather,Brown,515.0
+watch_1052,silfoli,Smartwatch,Male,42.0,3.0,Medium,Stainless Steel,Silver,Silver,Leather,Brown,515.0
+watch_1053,silfoli,Smartwatch,Male,42.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,515.0
+watch_1054,silfoli,Smartwatch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,515.0
+watch_1055,aniemin,Watch,Male,42.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Brown,515.0
+watch_1056,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Blue,515.0
+watch_1057,aniemin,Watch,Female,32.0,5.0,Small,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Rose Gold,515.0
+watch_1058,aniemin,Watch,Female,32.0,5.0,Small,Stainless Steel,Rose Gold,Mother Of Pearl,Leather,Blue,450.0
+watch_1059,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Rose Gold,Mother Of Pearl,Leather,Beige,450.0
+watch_1060,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Two Tone,450.0
+watch_1061,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Black,Black,Leather,Beige,450.0
+watch_1062,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Rose Gold,Black,Leather,Pink,450.0
+watch_1063,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Gold,Black,Leather,Cream,450.0
+watch_1064,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Rose Gold,Mother Of Pearl,Leather,Purple,450.0
+watch_1065,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,450.0
+watch_1066,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Two Tone,Metal Bracelet,Silver,450.0
+watch_1067,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Blue,450.0
+watch_1068,aniemin,Watch,Male,47.0,5.0,X-Large,Ceramic,Black,Black,Ceramic,Black,450.0
+watch_1069,aniemin,Watch,Male,41.0,3.0,Medium,Stainless Steel,Black,Black,Leather,Black,450.0
+watch_1070,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,450.0
+watch_1071,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Rose Gold,White,Leather,Brown,450.0
+watch_1072,genskne,Smartwatch,Male,41.0,3.0,Medium,Stainless Steel,Black,Black,Leather,Brown,450.0
+watch_1073,genskne,Smartwatch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,450.0
+watch_1074,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Silver,449.0
+watch_1075,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Black,1199.0
+watch_1076,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,White,Leather,Beige,1299.0
+watch_1077,genskne,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1199.0
+watch_1078,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,290.0
+watch_1079,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Black,310.0
+watch_1080,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,419.0
+watch_1081,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,1599.0
+watch_1082,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,White,Leather,Pink,1369.0
+watch_1083,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,White,Leather,Beige,580.0
+watch_1084,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,White,Leather,Black,1599.0
+watch_1085,genskne,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Blue,1599.0
+watch_1086,genskne,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Mother Of Pearl,Leather,Beige,1249.0
+watch_1087,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,640.0
+watch_1088,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Leather,Black,1599.0
+watch_1089,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Leather,blue,510.0
+watch_1090,genskne,Watch,Female,34.0,3.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,1369.0
+watch_1091,genskne,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose,559.0
+watch_1092,genskne,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,699.0
+watch_1093,genskne,Watch,Male,38.0,3.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Silver,290.0
+watch_1094,genskne,Watch,Male,38.0,3.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,290.0
+watch_1095,genskne,Watch,Male,38.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Black,350.0
+watch_1096,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,blue,260.0
+watch_1097,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Fabric,Black,240.0
+watch_1098,genskne,Watch,Male,38.0,3.0,Medium,Stainless Steel,Gold,White,Leather,Brown,699.0
+watch_1099,genskne,Watch,Male,38.0,3.0,Medium,Stainless Steel,Silver,Black,Leather,Black,290.0
+watch_1100,genskne,Watch,Male,38.0,3.0,Medium,Stainless Steel,Black,Blue,Metal Bracelet,Black,699.0
+watch_1101,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,1149.0
+watch_1102,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,640.0
+watch_1103,seldile,Watch,Male,44.0,10.0,Large,Stainless Steel,Black,Blue,Leather,Brown,1299.0
+watch_1104,seldile,Watch,Male,46.0,5.0,Large,Stainless Steel,Gold,Black,Leather,Black,949.0
+watch_1105,seldile,Watch,Male,45.0,5.0,Large,Polycarbonate,White,White,Silicone,White,310.0
+watch_1106,seldile,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Silver,Leather,blue,350.0
+watch_1107,seldile,Watch,Male,44.0,5.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,350.0
+watch_1108,seldile,Watch,Male,44.0,10.0,Large,Stainless Steel,Black,White,Leather,Blue,350.0
+watch_1109,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,310.0
+watch_1110,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Silicone,Red,420.0
+watch_1111,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,420.0
+watch_1112,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,489.0
+watch_1113,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Green,Silver,Metal Bracelet,Green,420.0
+watch_1114,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,460.0
+watch_1115,seldile,Watch,Male,49.0,10.0,X-Large,Stainless Steel,Black,Black,Silicone,Red,350.0
+watch_1116,seldile,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Black,460.0
+watch_1117,seldile,Watch,Female,38.0,5.0,Medium,Stainless Steel,Gold,Two Tone,Leather,White,460.0
+watch_1118,seldile,Watch,Male,55.0,3.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,769.0
+watch_1119,seldile,Watch,Male,52.0,3.0,X-Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,1099.0
+watch_1120,knydkyn,Watch,Female,24.0,5.0,Small,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,899.0
+watch_1121,knydkyn,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,999.0
+watch_1122,knydkyn,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Two Tone,Leather,White,999.0
+watch_1123,knydkyn,Watch,Female,32.0,3.0,Small,Stainless Steel,Gold,Two Tone,Leather,Pink,440.0
+watch_1124,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,899.0
+watch_1125,seldile,Watch,Male,52.0,10.0,X-Large,Stainless Steel,Black,Black,Silicone,Red,999.0
+watch_1126,silfoli,Watch,Female,36.0,10.0,Medium,Stainless Steel,Rose Gold,White,Leather,Pink,899.0
+watch_1127,orsmisr,Smartwatch,Male,47.0,1.0,X-Large,Stainless Steel,Blue,LCD,Metal Bracelet,Blue,440.0
+watch_1128,orsmisr,Smartwatch,Male,47.0,1.0,X-Large,Stainless Steel,Black,LCD,Metal Bracelet,Black,949.0
+watch_1129,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Rose Gold,LCD,Metal Bracelet,Two Tone,999.0
+watch_1130,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Silver,LCD,Metal Bracelet,Two Tone,999.0
+watch_1131,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Rose Gold,LCD,Metal Bracelet,Two Tone,999.0
+watch_1132,orsmisr,Smartwatch,Female,42.0,1.0,Medium,Stainless Steel,Blue,LCD,Metal Bracelet,Blue,440.0
+watch_1133,genskne,Smartwatch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,310.0
+watch_1134,genskne,Smartwatch,Female,34.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,420.0
+watch_1135,seldile,Smartwatch,Male,48.0,3.0,X-Large,Stainless Steel,Black,LCD,Silicone,Red,538.0
+watch_1136,seldile,Smartwatch,Male,48.0,3.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,699.0
+watch_1137,seldile,Smartwatch,Male,48.0,3.0,X-Large,Stainless Steel,Black,LCD,Leather,Black,799.0
+watch_1138,seldile,Smartwatch,Male,48.0,3.0,X-Large,Stainless Steel,Silver,LCD,Leather,Black,799.0
+watch_1139,seldile,Smartwatch,Male,48.0,3.0,X-Large,Stainless Steel,Black,LCD,Metal Bracelet,Black,999.0
+watch_1140,seldile,Smartwatch,Male,40.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,839.0
+watch_1141,aniemin,Smartwatch,Male,43.0,3.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,400.0
+watch_1142,aniemin,Smartwatch,Male,44.0,3.0,Large,Stainless Steel,Silver,Black,Leather,Black,350.0
+watch_1143,aniemin,Smartwatch,Male,46.0,3.0,Large,Stainless Steel,Silver,LCD,Metal Bracelet,Silver,350.0
+watch_1144,aniemin,Smartwatch,Male,46.0,3.0,Large,Stainless Steel,Silver,LCD,Leather,Black,290.0
+watch_1145,aniemin,Smartwatch,Male,46.0,3.0,Large,Stainless Steel,Silver,LCD,Metal Bracelet,Silver,350.0
+watch_1146,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,240.0
+watch_1147,silfoli,Watch,Male,45.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,290.0
+watch_1148,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,470.0
+watch_1149,aniemin,Watch,Female,32.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,640.0
+watch_1150,aniemin,Watch,Male,43.0,3.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,640.0
+watch_1151,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,510.0
+watch_1152,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,2399.0
+watch_1153,aniemin,Watch,Male,45.0,3.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,800.0
+watch_1154,aniemin,Watch,Male,43.0,3.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,800.0
+watch_1155,aniemin,Watch,Male,49.0,5.0,X-Large,Stainless Steel,Black,Gold,Leather,Beige,1849.0
+watch_1156,aniemin,Watch,Female,41.0,3.0,Medium,Stainless Steel,Rose Gold,Mother Of Pearl,Metal Bracelet,Rose Gold,468.0
+watch_1157,aniemin,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,380.0
+watch_1158,aniemin,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Green,Black,Metal Bracelet,Green,290.0
+watch_1159,aniemin,Watch,Male,53.0,5.0,X-Large,Stainless Steel,Green,Black,Metal Bracelet,Green,310.0
+watch_1160,aniemin,Watch,Male,53.0,3.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,849.0
+watch_1161,aniemin,Watch,Female,43.0,5.0,Large,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,310.0
+watch_1162,aniemin,Watch,Female,36.0,3.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,310.0
+watch_1163,aniemin,Watch,Male,51.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Black,380.0
+watch_1164,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Silver,White,Leather,Black,350.0
+watch_1165,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,398.0
+watch_1166,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,290.0
+watch_1167,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,580.0
+watch_1168,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Silver,Leather,Brown,400.0
+watch_1169,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Grey,Leather,Brown,400.0
+watch_1170,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Black,400.0
+watch_1171,seldile,Watch,Male,53.0,5.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,400.0
+watch_1172,seldile,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Silicone,Red,580.0
+watch_1173,seldile,Watch,Male,46.0,10.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,580.0
+watch_1174,seldile,Watch,Male,53.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,460.0
+watch_1175,seldile,Watch,Male,49.0,5.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,699.0
+watch_1176,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Silver,Blue,Leather,Brown,580.0
+watch_1177,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,580.0
+watch_1178,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,510.0
+watch_1179,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Silver,Blue,Leather,Brown,260.0
+watch_1180,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,260.0
+watch_1181,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Silver,White,Metal Bracelet,Silver,260.0
+watch_1182,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,240.0
+watch_1183,seldile,Watch,Female,42.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,400.0
+watch_1184,seldile,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,5.0
+watch_1185,seldile,Watch,Female,44.0,5.0,Large,Stainless Steel,Silver,Silver,Leather,Green,760.0
+watch_1186,seldile,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Silver,Fabric,Black,2098.0
+watch_1187,seldile,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,2141.0
+watch_1188,seldile,Watch,Male,54.0,3.0,X-Large,Stainless Steel,Silver,Two Tone,Leather,Black,2098.0
+watch_1189,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Gold,Black,Leather,Black,2356.0
+watch_1190,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,2141.0
+watch_1191,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,2141.0
+watch_1192,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,2356.0
+watch_1193,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,2356.0
+watch_1194,knydkyn,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,white,Metal Bracelet,Silver,75.0
+watch_1195,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,100.0
+watch_1196,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Black,Leather,Black,200.0
+watch_1197,knydkyn,Watch,Female,24.0,3.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Rose Gold,400.0
+watch_1198,knydkyn,Watch,Female,24.0,3.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Rose Gold,580.0
+watch_1199,knydkyn,Watch,Female,28.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Rose Gold,640.0
+watch_1200,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,690.0
+watch_1201,knydkyn,Watch,Female,20.0,5.0,Small,Stainless Steel,Gold,Silver,Metal Bracelet,Rose Gold,569.0
+watch_1202,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,468.0
+watch_1203,knydkyn,Watch,Female,18.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,260.0
+watch_1204,knydkyn,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,240.0
+watch_1205,knydkyn,Watch,Female,32.0,5.0,Small,Stainless Steel,Black,Two Tone,Metal Bracelet,Black,240.0
+watch_1206,knydkyn,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,290.0
+watch_1207,knydkyn,Watch,Female,32.0,5.0,Small,Stainless Steel,Gold,Black,Metal Bracelet,Gold,419.0
+watch_1208,knydkyn,Watch,Female,32.0,5.0,Small,Stainless Steel,Gold,Gold,Leather,Black,380.0
+watch_1209,silfoli,Watch,Female,28.0,10.0,Small,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,380.0
+watch_1210,silfoli,Watch,Female,28.0,10.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,310.0
+watch_1211,silfoli,Watch,Female,32.0,5.0,Small,Stainless steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,310.0
+watch_1212,silfoli,Watch,Female,30.0,5.0,Small,Stainless steel,Rose Gold,Mother Of Pearl,Metal Bracelet,Rose Gold,380.0
+watch_1213,silfoli,Watch,Female,35.0,5.0,Small,Stainless steel,Silver,White,Metal Bracelet,Silver,350.0
+watch_1214,silfoli,Watch,Female,35.0,5.0,Small,Stainless steel,Rose Gold,Cream,Metal Bracelet,Rose Gold,400.0
+watch_1215,silfoli,Watch,Female,36.0,3.0,Medium,Stainless steel,Rose Gold,White,Leather,Blue,449.0
+watch_1216,silfoli,Watch,Female,35.0,3.0,Small,Stainless steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,800.0
+watch_1217,silfoli,Watch,Female,36.0,3.0,Medium,Stainless steel,Rose Gold,White,Leather,Beige,420.0
+watch_1218,silfoli,Watch,Female,32.0,5.0,Small,Stainless steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,999.0
+watch_1219,silfoli,Watch,Female,36.0,3.0,Medium,Stainless steel,Silver,Blue,Metal Bracelet,Silver,1199.0
+watch_1220,silfoli,Watch,Female,34.0,5.0,Small,Stainless steel,Silver,White,Metal Bracelet,Silver,769.0
+watch_1221,silfoli,Watch,Female,34.0,5.0,Small,Stainless steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,640.0
+watch_1222,silfoli,Watch,Female,35.0,3.0,Small,Stainless steel,Silver,Silver,Metal Bracelet,Silver,640.0
+watch_1223,silfoli,Watch,Female,35.0,3.0,Small,Stainless steel,Silver,Brown,Leather,Brown,260.0
+watch_1224,silfoli,Watch,Female,35.0,5.0,Small,Stainless steel,Rose,Pink,Metal Bracelet,Pink,260.0
+watch_1225,silfoli,Watch,Male,45.0,5.0,Large,Plastic,Black,Black,Silicone,Black,240.0
+watch_1226,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Silver,Black,Metal Bracelet,Silver,260.0
+watch_1227,silfoli,Watch,Male,45.0,5.0,Large,Stainless steel,Black,Black,Leather,Black,260.0
+watch_1228,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Black,Black,Leather,Brown,380.0
+watch_1229,silfoli,Watch,Male,42.0,10.0,Medium,Stainless steel,Black,Black,Leather,Brown,240.0
+watch_1230,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Silver,Blue,Leather,Brown,400.0
+watch_1231,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Silver,Black,Leather,Brown,380.0
+watch_1232,silfoli,Watch,Male,42.0,5.0,Medium,Stainless steel,Silver,Blue,Metal Bracelet,Silver,400.0
+watch_1233,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Silver,Cream,Leather,Brown,380.0
+watch_1234,silfoli,Watch,Male,42.0,5.0,Medium,Stainless steel,Silver,Black,Metal Bracelet,Silver,400.0
+watch_1235,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Silver,Black,Metal Bracelet,Silver,949.0
+watch_1236,silfoli,Watch,Male,42.0,5.0,Medium,Stainless steel,Black,Black,Metal Bracelet,Black,450.0
+watch_1237,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Silver,Blue,Metal Bracelet,Silver,450.0
+watch_1238,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Black,Black,Leather,Brown,408.0
+watch_1239,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Blue,Blue,Leather,Blue,515.0
+watch_1240,silfoli,Watch,Male,44.0,5.0,Large,Stainless steel,Rose Gold,Blue,Leather,Blue,450.0
+watch_1241,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,White,450.0
+watch_1242,orsmisr,Watch,Female,37.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Green,450.0
+watch_1243,orsmisr,Watch,Female,31.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,450.0
+watch_1244,orsmisr,Watch,Female,37.0,5.0,Medium,Stainless Steel,Gold,White,Metal Bracelet,Gold,450.0
+watch_1245,orsmisr,Watch,Female,30.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,1299.0
+watch_1246,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Gold,Mother Of Pearl,Metal Bracelet,Gold,1210.0
+watch_1247,orsmisr,Watch,Female,43.0,10.0,Large,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1250.0
+watch_1248,orsmisr,Watch,Unisex,43.0,10.0,Large,Stainless Steel,Brown,Brown,Metal Bracelet,Brown,1299.0
+watch_1249,orsmisr,Watch,Male,43.0,10.0,Large,Stainless Steel,Blue,Blue,Metal Bracelet,Blue,1279.0
+watch_1250,orsmisr,Watch,Female,37.0,5.0,Medium,Stainless Steel,Gold,Rose Gold,Metal Bracelet,Rose Gold,327.0
+watch_1251,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,332.0
+watch_1252,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Gold,White,Leather,Blue,332.0
+watch_1253,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,416.0
+watch_1254,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,794.0
+watch_1255,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Two Tone,1088.0
+watch_1256,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,Brown,1130.0
+watch_1257,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,458.0
+watch_1258,genskne,Watch,Female,34.0,3.0,Small,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,408.0
+watch_1259,genskne,Watch,Female,38.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Pink,458.0
+watch_1260,genskne,Watch,Female,30.0,3.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,794.0
+watch_1261,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Black,374.0
+watch_1262,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,374.0
+watch_1263,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Black,416.0
+watch_1264,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,374.0
+watch_1265,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Gold,Black,Leather,Black,374.0
+watch_1266,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,374.0
+watch_1267,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Blue,Metal Bracelet,Black,668.0
+watch_1268,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,794.0
+watch_1269,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,836.0
+watch_1270,seldile,Watch,Female,38.0,5.0,Medium,Stainless Steel,Brown,Black,Metal Bracelet,Brown,878.0
+watch_1271,orsmisr,Watch,Female,39.0,10.0,Medium,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,1004.0
+watch_1272,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,878.0
+watch_1273,silfoli,Watch,Male,42.0,5.0,Medium,Stainless steel,Blue,Blue,Metal Bracelet,Blue,836.0
+watch_1274,silfoli,Watch,Female,38.0,5.0,Medium,Stainless steel,Silver,Silver,Metal Bracelet,Two Tone,668.0
+watch_1275,silfoli,Watch,Female,32.0,5.0,Small,Stainless steel,Silver,Gold,Metal Bracelet,Two Tone,668.0
+watch_1276,silfoli,Watch,Female,35.0,3.0,Small,Stainless steel,Gold,Gold,Metal Bracelet,Gold,626.0
+watch_1277,silfoli,Watch,Female,35.0,3.0,Small,Stainless steel,Silver,Silver,Metal Bracelet,Silver,710.0
+watch_1278,silfoli,Watch,Female,35.0,3.0,Small,Stainless steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,668.0
+watch_1279,silfoli,Watch,Female,38.0,5.0,Medium,Stainless steel,Black,Brown,Leather,Brown,836.0
+watch_1280,silfoli,Watch,Female,30.0,5.0,Small,Stainless steel,Rose Gold,Beige,Metal Bracelet,Rose Gold,1130.0
+watch_1281,silfoli,Watch,Female,26.0,5.0,Small,Stainless steel,Rose Gold,Rose Gold,Leather,Cream,626.0
+watch_1282,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Beige,584.0
+watch_1283,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,Brown,Leather,Brown,920.0
+watch_1284,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Brown,Leather,Brown,626.0
+watch_1285,eeltwle,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Silver,White,Leather,Brown,690.0
+watch_1286,eeltwle,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,White,Leather,Brown,752.0
+watch_1287,ngeareg,Watch,Male,44.0,5.0,Large,Stainless steel,Silver,Silver,Silicone,White,1046.0
+watch_1288,ngeareg,Watch,Male,46.0,5.0,Large,Stainless steel,Black,Black,Silicone,Black,1046.0
+watch_1289,ngeareg,Watch,Male,44.0,3.0,Large,Plastic,Blue,Blue,Silicone,Blue,1046.0
+watch_1290,ngeareg,Watch,Unisex,46.0,5.0,Large,Stainless steel,Black,Black,Silicone,Black,1046.0
+watch_1291,ngeareg,Watch,Male,45.0,10.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1256.0
+watch_1292,ngeareg,Watch,Male,46.0,10.0,Large,Stainless Steel,Black,Black,Leather,Black,1256.0
+watch_1293,ngeareg,Watch,Male,46.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,1676.0
+watch_1294,ngeareg,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1046.0
+watch_1295,ngeareg,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1592.0
+watch_1296,ngeareg,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Silver,Blue,Leather,Brown,1676.0
+watch_1297,ngeareg,Watch,Male,45.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1046.0
+watch_1298,ngeareg,Watch,Male,46.0,5.0,Large,Stainless Steel,Gold,Black,Metal Bracelet,Gold,1256.0
+watch_1299,ngeareg,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,2096.0
+watch_1300,ngeareg,Watch,Male,45.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,836.0
+watch_1301,ngeareg,Watch,Male,42.0,10.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,836.0
+watch_1302,ngeareg,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,1046.0
+watch_1303,ngeareg,Watch,Male,42.0,10.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,1256.0
+watch_1304,ngeareg,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,1046.0
+watch_1305,ngeareg,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,1046.0
+watch_1306,ngeareg,Watch,Male,44.0,10.0,Large,Stainless Steel,Black,Two Tone,Metal Bracelet,Black,2012.0
+watch_1307,ngeareg,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Green,Metal Bracelet,Silver,1676.0
+watch_1308,ngeareg,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,1802.0
+watch_1309,ngeareg,Watch,Female,35.0,5.0,Small,Stainless Steel,Gold,Two Tone,Metal Bracelet,Gold,105.0
+watch_1310,ngeareg,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,105.0
+watch_1311,ngeareg,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,105.0
+watch_1312,ngeareg,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Two Tone,105.0
+watch_1313,ngeareg,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,105.0
+watch_1314,ngeareg,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Black,105.0
+watch_1315,ngeareg,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Black,Metal Bracelet,Black,164.0
+watch_1316,ngeareg,Watch,Female,44.0,3.0,Large,Stainless Steel,Black,Black,Silicone,Black,332.0
+watch_1317,seldile,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,290.0
+watch_1318,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,332.0
+watch_1319,seldile,Watch,Male,47.0,5.0,X-Large,Stainless Steel,Black,Black,Silicone,Black,290.0
+watch_1320,seldile,Watch,Male,50.0,5.0,X-Large,Stainless Steel,Black,Black,Metal Bracelet,Black,378.0
+watch_1321,seldile,Watch,Male,51.0,10.0,X-Large,Stainless Steel,Black,Black,Leather,Brown,332.0
+watch_1322,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,378.0
+watch_1323,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,290.0
+watch_1324,knydkyn,Watch,Female,32.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,332.0
+watch_1325,knydkyn,Watch,Female,32.0,5.0,Small,Stainless Steel,Gold,White,Leather,White,290.0
+watch_1326,knydkyn,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,Black,Leather,Black,332.0
+watch_1327,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Purple,Leather,Purple,248.0
+watch_1328,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Rose Gold,Two Tone,Leather,Black,290.0
+watch_1329,aniemin,Watch,Male,32.0,3.0,Small,Stainless Steel,Silver,Black,Leather,Black,336.0
+watch_1330,aniemin,Watch,Male,43.0,3.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,290.0
+watch_1331,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Metal Bracelet,Silver,290.0
+watch_1332,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Black,Two Tone,Leather,Blue,332.0
+watch_1333,aniemin,Watch,Male,42.0,3.0,Medium,Ceramic,Black,Black,Ceramic,Black,332.0
+watch_1334,aniemin,Watch,Female,32.0,3.0,Small,Stainless Steel,Silver,Mother Of Pearl,Metal Bracelet,Silver,290.0
+watch_1335,aniemin,Watch,Male,46.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,290.0
+watch_1336,aniemin,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,Black,Silicone,Black,374.0
+watch_1337,silfoli,Watch,Female,38.0,10.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,235.0
+watch_1338,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,White,Leather,Brown,416.0
+watch_1339,silfoli,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,Brown,416.0
+watch_1340,silfoli,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,416.0
+watch_1341,silfoli,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,416.0
+watch_1342,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,310.0
+watch_1343,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,332.0
+watch_1344,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,416.0
+watch_1345,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,416.0
+watch_1346,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,White,Leather,Brown,416.0
+watch_1347,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Brown,290.0
+watch_1348,orsmisr,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Mother Of Pearl,Leather,Pink,336.0
+watch_1349,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Gold,White,Leather,Brown,332.0
+watch_1350,orsmisr,Watch,Female,38.0,5.0,Medium,Stainless Steel,Gold,White,Leather,Brown,115.0
+watch_1351,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Gold,White,Leather,Red,122.0
+watch_1352,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,Pink,122.0
+watch_1353,orsmisr,Watch,Female,36.5,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,122.0
+watch_1354,orsmisr,Watch,Female,26.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,110.0
+watch_1355,orsmisr,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,294.0
+watch_1356,orsmisr,Watch,Female,38.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,378.0
+watch_1357,orsmisr,Watch,Female,38.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,336.0
+watch_1358,orsmisr,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,332.0
+watch_1359,orsmisr,Watch,Female,28.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,336.0
+watch_1360,genskne,Watch,Female,30.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,416.0
+watch_1361,genskne,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,416.0
+watch_1362,genskne,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Two Tone,416.0
+watch_1363,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,343.0
+watch_1364,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,Mother Of Pearl,Leather,Black,752.0
+watch_1365,orsmisr,Watch,Female,39.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Two Tone,500.0
+watch_1366,eeltwle,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Black,Silicone,Black,500.0
+watch_1367,eeltwle,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Black,Silicone,Black,314.0
+watch_1368,eeltwle,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Brown,Silicone,Black,500.0
+watch_1369,eeltwle,Watch,Male,44.0,10.0,Large,Stainless Steel,Black,Black,Silicone,Black,458.0
+watch_1370,eeltwle,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Red,Silicone,Red,542.0
+watch_1371,eeltwle,Watch,Male,44.0,10.0,Large,Stainless Steel,Silver,Blue,Silicone,Blue,500.0
+watch_1372,eeltwle,Watch,Male,44.0,10.0,Large,Stainless Steel,Rose Gold,Blue,Silicone,White,458.0
+watch_1373,eeltwle,Watch,Male,44.0,10.0,Large,Stainless Steel,Rose Gold,Black,Silicone,Black,500.0
+watch_1374,silfoli,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,542.0
+watch_1375,silfoli,Watch,Female,28.0,5.0,Small,Stainless Steel,Silver,Silver,Leather,Brown,314.0
+watch_1376,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Silver,Leather,Brown,500.0
+watch_1377,silfoli,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,White,Leather,Brown,836.0
+watch_1378,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Brown,794.0
+watch_1379,silfoli,Watch,Male,42.0,3.0,Medium,Stainless Steel,Black,Brown,Leather,Brown,542.0
+watch_1380,silfoli,Watch,Male,42.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,327.0
+watch_1381,silfoli,Watch,Male,42.0,3.0,Medium,Stainless Steel,Silver,Beige,Leather,Brown,272.0
+watch_1382,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Black,470.0
+watch_1383,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,Blue,Leather,Brown,435.0
+watch_1384,silfoli,Watch,Male,44.0,5.0,Large,Stainless Steel,Black,Black,Leather,Brown,584.0
+watch_1385,silfoli,Watch,Male,42.0,3.0,Medium,Stainless Steel,Black,Black,Leather,Black,626.0
+watch_1386,silfoli,Watch,Male,50.0,10.0,X-Large,Stainless Steel,Black,Brown,Leather,Brown,542.0
+watch_1387,knydkyn,Watch,Female,34.0,5.0,Small,Stainless Steel,Silver,Black,Leather,Black,306.0
+watch_1388,aniemin,Watch,Male,43.0,5.0,Large,Stainless Steel,Black,Black,Leather,Black,325.0
+watch_1389,ngeareg,Watch,Male,46.0,5.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Brown,542.0
+watch_1390,seldile,Watch,Male,45.0,10.0,Large,Stainless Steel,Black,Black,Metal Bracelet,Black,542.0
+watch_1391,seldile,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Black,Beige,Silicone,Black,542.0
+watch_1392,seldile,Watch,Male,48.0,5.0,X-Large,Stainless Steel,Silver,Black,Leather,Black,475.0
+watch_1393,orsmisr,Watch,Female,36.0,3.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,500.0
+watch_1394,orsmisr,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Blue,Metal Bracelet,Rose Gold,500.0
+watch_1395,genskne,Watch,Female,26.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Silver,542.0
+watch_1396,genskne,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,626.0
+watch_1397,genskne,Watch,Female,26.0,5.0,Small,Stainless Steel,Silver,White,Leather,Black,668.0
+watch_1398,genskne,Watch,Female,26.0,5.0,Small,Stainless Steel,Black,Black,Metal Bracelet,Black,626.0
+watch_1399,genskne,Watch,Female,26.0,3.0,Small,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Silver,500.0
+watch_1400,genskne,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Blue,Leather,Blue,584.0
+watch_1401,genskne,Watch,Female,26.0,5.0,Small,Stainless Steel,Rose Gold,Silver,Leather,Blue,590.0
+watch_1402,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,White,Leather,Black,584.0
+watch_1403,genskne,Watch,Male,38.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,510.0
+watch_1404,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,680.0
+watch_1405,genskne,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Black,752.0
+watch_1406,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,2058.0
+watch_1407,genskne,Watch,Male,40.0,3.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,2096.0
+watch_1408,doxmaxo,Watch,Female,36.0,3.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,1676.0
+watch_1409,doxmaxo,Watch,Male,41.0,3.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,2012.0
+watch_1410,doxmaxo,Watch,Female,37.0,3.0,Medium,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,1970.0
+watch_1411,doxmaxo,Watch,Male,41.0,3.0,Medium,Stainless Steel,Rose Gold,Black,Leather,Black,1046.0
+watch_1412,doxmaxo,Watch,Unisex,32.0,3.0,Small,Stainless Steel,Gold,beige,Metal Bracelet,Gold,1256.0
+watch_1413,doxmaxo,Watch,Unisex,32.0,3.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1214.0
+watch_1414,doxmaxo,Watch,Unisex,32.0,3.0,Small,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,1130.0
+watch_1415,doxmaxo,Watch,Unisex,32.0,3.0,Small,Stainless Steel,Black,Black,Metal Bracelet,Black,725.0
+watch_1416,doxmaxo,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Black,1046.0
+watch_1417,doxmaxo,Watch,Male,40.0,5.0,Medium,Stainless Steel,Black,Black,Leather,Brown,810.0
+watch_1418,doxmaxo,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1802.0
+watch_1419,doxmaxo,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Black,Leather,Black,1802.0
+watch_1420,doxmaxo,Watch,Female,33.0,5.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,1046.0
+watch_1421,doxmaxo,Watch,Female,33.0,5.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,1214.0
+watch_1422,doxmaxo,Watch,Female,33.0,5.0,Small,Stainless Steel,Gold,Blue,Metal Bracelet,Gold,1214.0
+watch_1423,doxmaxo,Watch,Female,33.0,5.0,Small,Stainless Steel,Silver,Gold,Metal Bracelet,Silver,2012.0
+watch_1424,doxmaxo,Watch,Male,43.0,5.0,Large,Stainless Steel,Brown,White,Leather,Brown,1250.0
+watch_1425,doxmaxo,Watch,Male,43.0,5.0,Large,Stainless Steel,Silver,Black,Leather,Brown,1256.0
+watch_1426,doxmaxo,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,White,670.0
+watch_1427,doxmaxo,Watch,Female,38.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,670.0
+watch_1428,doxmaxo,Watch,Female,38.0,5.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Rose Gold,1214.0
+watch_1429,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Gold,?,Leather,Cream,790.0
+watch_1430,doxmaxo,Watch,Female,30.0,5.0,Small,Stainless Steel,Gold,White,Metal Bracelet,Gold,1172.0
+watch_1431,doxmaxo,Watch,Female,30.0,5.0,Small,Stainless Steel,Silver,Rose Gold,Metal Bracelet,Rose Gold,1155.0
+watch_1432,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,White,Silicone,Pink,1155.0
+watch_1433,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,light yellow,Silicone,White,920.0
+watch_1434,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Pink,Blue,Silicone,Pink,1214.0
+watch_1435,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,668.0
+watch_1436,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,nude,Metal Bracelet,Rose Gold,485.0
+watch_1437,doxmaxo,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,836.0
+watch_1438,doxmaxo,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Brown,Leather,Black/ Brown?,710.0
+watch_1439,doxmaxo,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Brown,870.0
+watch_1440,doxmaxo,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Black,Material,Black,794.0
+watch_1441,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,White,Leather,beige,794.0
+watch_1442,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Gold,Silver,Leather,Black,752.0
+watch_1443,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,Silver,Metal Bracelet,Two Tone,584.0
+watch_1444,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,499.0
+watch_1445,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,499.0
+watch_1446,doxmaxo,Watch,Female,31.0,5.0,Small,Stainless Steel,Rose Gold,White,Leather,Brown,668.0
+watch_1447,doxmaxo,Watch,Female,31.0,5.0,Small,Stainless Steel,Silver,White,Metal Bracelet,Silver,668.0
+watch_1448,doxmaxo,Watch,Female,31.0,5.0,Small,Stainless Steel,Black,Black,Metal Bracelet,Gold,794.0
+watch_1449,doxmaxo,Watch,Female,31.0,5.0,Small,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,836.0
+watch_1450,doxmaxo,Watch,Female,32.0,5.0,Small,Stainless Steel,Rose Gold,Silver,Leather,beige,560.0
+watch_1451,doxmaxo,Watch,Female,32.0,5.0,Small,Stainless Steel,Silver,Black,Metal Bracelet,Silver,668.0
+watch_1452,doxmaxo,Watch,Female,32.0,5.0,Small,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,710.0
+watch_1453,doxmaxo,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Blue,752.0
+watch_1454,doxmaxo,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Silver,836.0
+watch_1455,doxmaxo,Watch,Female,37.0,5.0,Medium,Stainless Steel,Rose Gold,White,Leather,Black,668.0
+watch_1456,doxmaxo,Watch,Female,33.0,5.0,Small,Stainless Steel,Rose Gold,Black,Metal Bracelet,Black,668.0
+watch_1457,doxmaxo,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,794.0
+watch_1458,doxmaxo,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,794.0
+watch_1459,doxmaxo,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,794.0
+watch_1460,doxmaxo,Watch,Female,38.0,5.0,Medium,Stainless Steel,Gold,Gold,Metal Bracelet,Gold,435.0
+watch_1461,doxmaxo,Watch,Male,42.0,5.0,Medium,Stainless Steel,Brown,Blue,Leather,Brown,470.0
+watch_1462,doxmaxo,Watch,Male,42.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Brown,626.0
+watch_1463,doxmaxo,Watch,Male,42.0,5.0,Medium,Stainless Steel,Black,Brown,Leather,Black,542.0
+watch_1464,doxmaxo,Watch,Male,42.0,5.0,Medium,Stainless Steel,Brown,Blue,Leather,Brown,710.0
+watch_1465,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,beige,Leather,beige,794.0
+watch_1466,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Rose Gold,625.0
+watch_1467,doxmaxo,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Leather,Black,375.0
+watch_1468,doxmaxo,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Metal Bracelet,Black,440.0
+watch_1469,doxmaxo,Watch,Female,37.0,5.0,Medium,Stainless Steel,Silver,Silver,Metal Bracelet,Silver,500.0
+watch_1470,doxmaxo,Watch,Female,37.0,5.0,Medium,Stainless Steel,Rose Gold,Rose Gold,Metal Bracelet,Two Tone,470.0
+watch_1471,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,590.0
+watch_1472,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,Black,Metal Bracelet,Two Tone,752.0
+watch_1473,doxmaxo,Watch,Female,37.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,752.0
+watch_1474,doxmaxo,Watch,Male,41.0,5.0,Medium,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,395.0
+watch_1475,doxmaxo,Watch,Male,41.0,5.0,Medium,Stainless Steel,Black,Black,Metal Bracelet,Black,542.0
+watch_1476,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Rose Gold,Black,Metal Bracelet,Silver,794.0
+watch_1477,doxmaxo,Watch,Female,36.0,5.0,Medium,Stainless Steel,Silver,Brown,Metal Bracelet,Silver,878.0
+watch_1478,doxmaxo,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,878.0
+watch_1479,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Rose Gold,White,Metal Bracelet,Rose Gold,510.0
+watch_1480,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,Blue,Metal Bracelet,Silver,693.0
+watch_1481,doxmaxo,Watch,Male,40.0,5.0,Medium,Stainless Steel,Silver,Black,Leather,Black,1172.0
+watch_1482,doxmaxo,Watch,Female,35.0,5.0,Small,Stainless Steel,Silver,White,Leather,Brown,794.0
+watch_1483,doxmaxo,Watch,Male,44.0,5.0,Large,Stainless Steel,Silver,brown,Metal Bracelet,Silver,668.0
+watch_1484,doxmaxo,Watch,Male,44.0,5.0,Large,Stainless Steel,Rose Gold,Blue,Leather,Black,752.0
