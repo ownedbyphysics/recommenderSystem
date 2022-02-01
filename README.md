@@ -24,7 +24,8 @@ See image below:
 ![image1](https://user-images.githubusercontent.com/48797734/151055633-bbb86765-37f6-4a82-bdb4-1189c776af3f.png)
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-##****** The repo will be soon enriched with 2 more methods. The first one exploit the watches image similarities to get out the most similar,
-and the second one produces another similarity matrix based on all watches feature scores ******##
+The repo will be soon enriched with one more method that exploits the watches image similarities to get out the most similar,
